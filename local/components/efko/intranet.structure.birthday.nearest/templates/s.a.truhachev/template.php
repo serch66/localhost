@@ -2,9 +2,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.6/js/standalone/selectize.min.js" integrity="sha256-+C0A5Ilqmu4QcSPxrlGpaZxJ04VjsRjKu+G82kl5UJk=" crossorigin="anonymous"></script>
 
 
-
-
-
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
       integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
       crossorigin=""/>
@@ -194,20 +191,6 @@
     })
 </script>
 
-
-<pre>
-
-<!--    111--><?//
-//    print_r($url = $_SERVER['QUERY_STRING']);
-//
-//    var_dump(parse_url($url));
-//    var_dump(basename($url).PHP_EOL);
-//    $int = filter_var(($url), FILTER_SANITIZE_NUMBER_INT);
-//
-//    var_dump(($int));
-//    ?>
-
-</pre>
 <?
 if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
 

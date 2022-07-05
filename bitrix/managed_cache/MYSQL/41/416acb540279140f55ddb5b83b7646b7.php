@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001657022836';
-$dateexpire = '001657026436';
+$datecreate = '001657026688';
+$dateexpire = '001657030288';
 $ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:2:"s1";a:9:{i:0;a:3:{s:9:"CONDITION";s:29:"CSite::InDir(\'/desktop_app/\')";s:8:"TEMPLATE";s:11:"desktop_app";s:7:"SITE_ID";s:2:"s1";}i:1;a:3:{s:9:"CONDITION";s:24:"CSite::InDir(\'/mobile/\')";s:8:"TEMPLATE";s:10:"mobile_app";s:7:"SITE_ID";s:2:"s1";}i:2;a:3:{s:9:"CONDITION";s:21:"CSite::InDir(\'/pub/\')";s:8:"TEMPLATE";s:3:"pub";s:7:"SITE_ID";s:2:"s1";}i:3;a:3:{s:9:"CONDITION";s:93:"preg_match("#^/video/([\\.\\-0-9a-zA-Z]+)(/?)([^/]*)#", $GLOBALS[\'APPLICATION\']->GetCurPage(0))";s:8:"TEMPLATE";s:8:"call_app";s:7:"SITE_ID";s:2:"s1";}i:4;a:3:{s:9:"CONDITION";s:116:"preg_match("#^/desktop_app/router.php\\?alias=([\\.\\-0-9a-zA-Z]+)&videoconf#", $GLOBALS[\'APPLICATION\']->GetCurPage(0))";s:8:"TEMPLATE";s:8:"call_app";s:7:"SITE_ID";s:2:"s1";}i:5;a:3:{s:9:"CONDITION";s:94:"preg_match("#^/online/([\\.\\-0-9a-zA-Z]+)(/?)([^/]*)#", $GLOBALS[\'APPLICATION\']->GetCurPage(0))";s:8:"TEMPLATE";s:3:"pub";s:7:"SITE_ID";s:2:"s1";}i:6;a:3:{s:9:"CONDITION";s:64:"!$GLOBALS[\'USER\']->IsAuthorized() && $_SERVER[\'REMOTE_USER\']==\'\'";s:8:"TEMPLATE";s:5:"login";s:7:"SITE_ID";s:2:"s1";}i:7;a:3:{s:9:"CONDITION";s:85:"preg_match(\'#/sites/site/[\\d]+/view/[\\d]+/#\', $GLOBALS[\'APPLICATION\']->GetCurPage(0))";s:8:"TEMPLATE";s:9:"landing24";s:7:"SITE_ID";s:2:"s1";}i:8;a:3:{s:9:"CONDITION";s:0:"";s:8:"TEMPLATE";s:8:"bitrix24";s:7:"SITE_ID";s:2:"s1";}}}}';
 return true;
 ?>

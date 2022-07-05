@@ -4,6 +4,7 @@ if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
 $arMonths_r = array();
 for ($i = 1; $i <= 12; $i++)
 	$arMonths_r[$i] = ToLower(GetMessage('MONTH_'.$i.'_S'));
+//rr
 ?>
 <?
 if ($arParams['SHOW_FILTER'] == 'Y'):

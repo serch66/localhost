@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001657019572';
-$dateexpire = '001657023172';
+$datecreate = '001657022763';
+$dateexpire = '001657026363';
 $ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:13:"TEMPLATE_DATA";a:0:{}s:9:"USER_PROP";a:36:{s:13:"UF_DEPARTMENT";s:26:"Подразделения";s:14:"UF_PHONE_INNER";s:35:"Внутренний телефон";s:18:"UF_USER_CRM_ENTITY";s:20:"Элементы CRM";s:12:"UF_IM_SEARCH";s:18:"IM: users can find";s:16:"UF_CONNECTOR_MD5";s:16:"UF_CONNECTOR_MD5";s:5:"UF_1C";s:33:"Пользователь из 1С";s:6:"UF_INN";s:6:"ИНН";s:11:"UF_DISTRICT";s:10:"Район";s:8:"UF_SKYPE";s:16:"Логин Skype";s:13:"UF_SKYPE_LINK";s:33:"Ссылка на чат в Skype";s:7:"UF_ZOOM";s:4:"Zoom";s:10:"UF_TWITTER";s:7:"Twitter";s:11:"UF_FACEBOOK";s:8:"Facebook";s:11:"UF_LINKEDIN";s:8:"LinkedIn";s:7:"UF_XING";s:4:"Xing";s:12:"UF_WEB_SITES";s:23:"Другие сайты";s:9:"UF_SKILLS";s:12:"Навыки";s:12:"UF_INTERESTS";s:16:"Интересы";s:18:"UF_EMPLOYMENT_DATE";s:43:"Дата принятия на работу";s:15:"UF_WORK_BINDING";s:78:"Привязки для учета внутреннего совмещения";s:18:"UF_BXDAVEX_CALSYNC";s:18:"Calendar sync date";s:10:"UF_TIMEMAN";s:40:"Учет рабочего времени";s:15:"UF_TM_MAX_START";s:72:"Максимальное время начала рабочего дня";s:16:"UF_TM_MIN_FINISH";s:78:"Минимальное время завершения рабочего дня";s:18:"UF_TM_MIN_DURATION";s:81:"Минимальная продолжительность рабочего дня";s:16:"UF_TM_REPORT_REQ";s:24:"Отчет за день";s:16:"UF_TM_REPORT_TPL";s:27:"Шаблоны отчета";s:10:"UF_TM_FREE";s:31:"Свободный график";s:10:"UF_TM_TIME";s:34:"Время сдачи отчета";s:9:"UF_TM_DAY";s:8:"День";s:17:"UF_TM_REPORT_DATE";s:23:"Число месяца";s:16:"UF_REPORT_PERIOD";s:38:"Частота сдачи отчета";s:13:"UF_DELAY_TIME";s:44:"Отложенное время отчета";s:19:"UF_LAST_REPORT_DATE";s:42:"Дата последнего отчета";s:15:"UF_SETTING_DATE";s:44:"Дата установки настроек";s:19:"UF_TM_ALLOWED_DELTA";s:75:"Допустимый промежуток изменения времени";}}}';
 return true;
 ?>

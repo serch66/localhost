@@ -8,6 +8,8 @@ $APPLICATION->SetPageProperty("title", htmlspecialcharsbx(COption::GetOptionStri
 if (SITE_TEMPLATE_ID !== "bitrix24")
 	return;
 ?>
+
+
 <?
 $APPLICATION->IncludeComponent(
 	"bitrix:socialnetwork.log.ex",

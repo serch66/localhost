@@ -1,0 +1,1109 @@
+2022-07-01 14:23:34 
+2022-07-01 14:28:39 Array
+(
+    [0] => Моя компания
+    [1] => Бухгалтерия
+    [2] => 54
+    [3] => 54u 6u
+    [4] => u6u 56 u6 u5u y56ttrh
+    [5] => u6u 56 u6 u5u 
+    [6] => ак
+    [7] => Бухгалтерия 7u67u56 u6u 567u56 7u567u 56 u56u 56u 567u 67u 56u 
+    [8] => Отдел маркетинга и рекламы
+    [9] => Отдел продаж
+    [10] => 54
+)
+
+2022-07-01 14:32:05 
+2022-07-01 14:32:27 Array
+(
+    [10] => 54
+)
+
+2022-07-01 14:38:00 Array
+(
+    [10] => 54
+)
+
+2022-07-01 14:45:10 Array
+(
+    [0] => Моя компания
+    [1] => Моя компания
+    [2] => Моя компания
+    [3] => Моя компания
+    [4] => Моя компания
+    [5] => Моя компания
+    [6] => Моя компания
+    [7] => Моя компания
+    [8] => Моя компания
+    [9] => Моя компания
+    [10] => Моя компания
+    [11] => Моя компания
+    [12] => Моя компания
+    [13] => Моя компания
+    [14] => Моя компания
+    [15] => Моя компания
+    [16] => Моя компания
+    [17] => Моя компания
+    [18] => Моя компания
+    [19] => Моя компания
+    [20] => Моя компания
+    [21] => Моя компания
+    [22] => Моя компания
+    [23] => Моя компания
+    [24] => Моя компания
+    [25] => Моя компания
+    [26] => Моя компания
+    [27] => Моя компания
+    [28] => Моя компания
+)
+
+2022-07-01 14:46:06 Array
+(
+    [0] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [1] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [2] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [3] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [4] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [5] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [6] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [7] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [8] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [9] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [10] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [11] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [12] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [13] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [14] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [15] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [16] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [17] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [18] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [19] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [20] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [21] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [22] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [23] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [24] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [25] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [26] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [27] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+    [28] => Array
+        (
+            [ID] => 1
+            [TIMESTAMP_X] => 10.06.2022 09:34:33
+            [MODIFIED_BY] => 1
+            [DATE_CREATE] => 10.06.2022 09:32:58
+            [CREATED_BY] => 1
+            [IBLOCK_ID] => 3
+            [IBLOCK_SECTION_ID] => 
+            [ACTIVE] => Y
+            [GLOBAL_ACTIVE] => Y
+            [SORT] => 500
+            [NAME] => Моя компания
+            [PICTURE] => 
+            [LEFT_MARGIN] => 1
+            [RIGHT_MARGIN] => 22
+            [DEPTH_LEVEL] => 1
+            [DESCRIPTION] => 
+            [DESCRIPTION_TYPE] => text
+            [SEARCHABLE_CONTENT] => МОЯ КОМПАНИЯ
+
+            [CODE] => 
+            [XML_ID] => 
+            [TMP_ID] => 
+            [DETAIL_PICTURE] => 
+            [SOCNET_GROUP_ID] => 
+            [LIST_PAGE_URL] => #SITE_DIR#company/structure.php
+            [SECTION_PAGE_URL] => #SITE_DIR#company/structure.php?set_filter_structure=Y&structure_UF_DEPARTMENT=#ID#
+            [IBLOCK_TYPE_ID] => structure
+            [IBLOCK_CODE] => departments
+            [IBLOCK_EXTERNAL_ID] => departments
+            [EXTERNAL_ID] => 
+        )
+
+)
+
+2022-07-01 14:47:58 Array
+(
+)
+
+2022-07-01 14:49:36 Array
+(
+)
+
+2022-07-01 14:50:06 0
+2022-07-01 14:52:21 Array
+(
+    [0] => Моя компания
+    [1] => Бухгалтерия
+    [2] => 54
+    [3] => 54u 6u
+    [4] => u6u 56 u6 u5u y56ttrh
+    [5] => u6u 56 u6 u5u 
+    [6] => ак
+    [7] => Бухгалтерия 7u67u56 u6u 567u56 7u567u 56 u56u 56u 567u 67u 56u 
+    [8] => Отдел маркетинга и рекламы
+    [9] => Отдел продаж
+    [10] => 54
+)
+
+2022-07-01 14:56:10 Array
+(
+)
+
+2022-07-01 14:57:38 Array
+(
+    [10] => 54
+)
+
+2022-07-01 14:58:27 Array
+(
+    [10] => 54
+)
+
+2022-07-01 14:59:01 Array
+(
+    [10] => 54
+)
+
+2022-07-01 15:01:40 Array
+(
+    [10] => 54
+)
+
+2022-07-01 15:03:16 Array
+(
+    [10] => 54
+)
+
+2022-07-01 15:14:40 Array
+(
+    [7] => ак
+    [11] => 54
+)
+

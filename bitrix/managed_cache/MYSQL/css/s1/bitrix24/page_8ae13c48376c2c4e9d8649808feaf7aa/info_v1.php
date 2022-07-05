@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/efko/intranet.structure.birthday.nearest/templates/s.a.truhachev/style.css" => "16564852189452",]; ?>

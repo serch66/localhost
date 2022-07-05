@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/components/bitrix/intranet.structure.birthday.nearest/templates/s.a.truhachev/style.css" => "1655814822511",]; ?>

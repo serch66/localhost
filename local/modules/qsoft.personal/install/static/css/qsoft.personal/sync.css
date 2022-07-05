@@ -1,0 +1,28 @@
+#sync-block {
+    border-top: solid 1px #bcccd8;
+    padding: 15px;
+    margin-top: 15px;
+    text-align: center;
+}
+
+#progress {
+    margin: 20px 0;
+}
+
+.page--hidden {
+    display:none;
+}
+
+.cell__title {
+    min-width: 100px;
+    font-weight: bold;
+}
+
+#sync_continue,
+#sync_cancel{
+    display: none;
+}
+
+#edit_edit_table select{
+    width: 200px;
+}

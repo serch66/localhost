@@ -1,0 +1,245 @@
+
+
+/* Start:/bitrix/components/bitrix/intranet.structure.birthday.nearest/templates/s.a.truhachev/style.css?16559615822640*/
+table.bx-users-toolbar {width: 100%; border-collapse:collapse; background-color: #D8E3E8; margin-bottom: 10px;}
+table.bx-users-toolbar td {padding: 5px; white-space: nowrap !important; color: black;}
+table.bx-users-toolbar td.bx-users-toolbar-last {width: 100%; text-align: right;}
+table.bx-users-toolbar td form {padding: 0px; margin: 0px;}
+table.bx-users-toolbar form {display: flex; justify-content: space-between;}
+table.bx-users-toolbar .bx-birthday-container{display: flex;
+    justify-content: flex-end }
+
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background: #f7f6ff;
+}
+
+h2 {
+    margin: 16px;
+}
+
+.container {
+    margin-top: 100px;
+    padding: 32px;
+}
+
+.select-box {
+    position: relative;
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+}
+
+.select-box .options-container {
+    background: #2f3640;
+    color: #f5f6fa;
+    max-height: 0;
+    width: 100%;
+    opacity: 0;
+    transition: all 0.4s;
+    border-radius: 8px;
+    overflow: hidden;
+
+    order: 1;
+}
+
+.selected {
+    background: #2f3640;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    color: #f5f6fa;
+    position: relative;
+
+    order: 0;
+}
+
+.selected::after {
+    content: "";
+    background: url("/bitrix/components/bitrix/intranet.structure.birthday.nearest/templates/s.a.truhachev/img/arrow-down.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    position: absolute;
+    height: 100%;
+    width: 32px;
+    right: 10px;
+    top: 5px;
+
+    transition: all 0.4s;
+}
+
+.select-box .options-container.active {
+    max-height: 240px;
+    opacity: 1;
+    overflow-y: scroll;
+    margin-top: 54px;
+}
+
+.select-box .options-container.active + .selected::after {
+    transform: rotateX(180deg);
+    top: -6px;
+}
+
+.select-box .options-container::-webkit-scrollbar {
+    width: 8px;
+    background: #0d141f;
+    border-radius: 0 8px 8px 0;
+}
+
+.select-box .options-container::-webkit-scrollbar-thumb {
+    background: #525861;
+    border-radius: 0 8px 8px 0;
+}
+
+.select-box .option,
+.selected {
+    padding: 12px 24px;
+    cursor: pointer;
+}
+
+.select-box .option:hover {
+    background: #414b57;
+}
+
+.select-box label {
+    cursor: pointer;
+}
+
+.select-box .option .radio {
+    display: none;
+}
+
+/* Searchbox */
+
+.search-box input {
+    width: 100%;
+    padding: 12px 16px;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    position: absolute;
+    border-radius: 8px 8px 0 0;
+    z-index: 100;
+    border: 8px solid #2f3640;
+
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.4s;
+}
+
+.search-box input:focus {
+    outline: none;
+}
+
+.select-box .options-container.active ~ .search-box input {
+    opacity: 1;
+    pointer-events: auto;
+}
+/* End */
+
+
+/* Start:/bitrix/components/bitrix/intranet.system.person/templates/.default/style.css?16548420303002*/
+.bx-user-info-big {border: solid 1px #C4C4C4; margin: 0px 0px 10px 0px;}
+.bx-user-info-inner-big {padding: 15px; border-top: solid 3px #D8E3E8;}
+
+.bx-user-info-inner-big .bx-user-text {margin-left: 120px; margin-right: 200px;}
+.bx-user-info-inner-big .bx-user-text.no-photo {margin-left: 0px;}
+.bx-user-info-inner-big .bx-user-text .bx-user-name, .bx-user-info-inner .bx-user-text .bx-user-post {margin-bottom: 10px;}
+
+.bx-user-info-inner-big .bx-user-image {float: left; height: 102px; width: 104px; padding-top: 2px; border: solid 1px #C4C4C4; text-align: center; }
+.bx-user-info-inner-big .bx-user-image a {display: block; height: 102px; width: 104px; text-decoration: none;}
+.bx-user-info-inner-big .bx-user-image img {border: 0;}
+.bx-user-info-inner-big .bx-user-image-default {
+	background-image: url(/bitrix/components/bitrix/intranet.system.person/templates/.default/images/nopic_user_100_noborder.gif);
+}
+
+.bx-user-info-inner-big .bx-user-name {font-size: 1.5em; margin: 0px;}
+.bx-user-info-inner-big .bx-user-name nobr {white-space: normal !important;}
+.bx-user-info-inner-big .bx-user-name a {text-decoration: none;}
+.bx-user-info-inner-big .bx-user-name a:hover {text-decoration: underline;}
+
+.bx-users-delimiter {clear: both;}
+
+.bx-user-info-inner-big .bx-user-post {font-weight: bold;}
+.bx-user-info-inner-big .bx-user-properties {color: #6D808F;}
+
+.bx-user-controls {float: right;}
+.bx-user-controls .bx-user-control {
+	border-left: solid 1px #C4C4C4;
+	padding: 5px 0px 5px 10px;
+	margin: 0px;
+	margin-bottom: 10px;
+	width: 160px;
+}
+
+.bx-user-controls .bx-user-control a {text-decoration: none;}
+.bx-user-controls .bx-user-control a:hover {text-decoration: underline;}
+
+.bx-user-controls .bx-user-control ul {list-style-image: none; list-style-position: outside; list-style-type: none; margin: 0; padding: 0;}
+.bx-user-info-inner-big .bx-user-control ul li.bx-icon {
+	padding-top: 3px;
+	height: 20px;
+	display: block;
+	padding-left: 22px;
+	clear: both;
+	background-image: url(/bitrix/components/bitrix/intranet.system.person/templates/.default/images/icons_all.png);
+	background-repeat: no-repeat;
+	white-space:nowrap;
+}
+
+.bx-user-info-inner-big .bx-user-control .bx-icon-message{background-position: 0 0;}
+.bx-user-info-inner-big .bx-user-control .bx-icon-online{background-position: 0 -20px;}
+.bx-user-info-inner-big .bx-user-control .bx-icon-away{background-position: 0 -40px;}
+.bx-user-info-inner-big .bx-user-control .bx-icon-birth{background-position: 0 -60px;}
+.bx-user-info-inner-big .bx-user-control .bx-icon-featured{background-position: 0 -80px;}
+.bx-user-info-inner-big .bx-user-control .bx-icon-edit{background-position: 0 -99px;}
+.bx-user-info-inner-big .bx-user-control .bx-icon-video{background-position: 0 -120px;}
+
+.bx-user-info-inner-big div.bx-user-subtitle {
+	font-size: 1.2em;
+	font-weight: bold;
+	padding: 5px 10px;
+	margin-bottom: 10px;
+	background-color: #FFFFDA;
+	border: solid 1px #E7E7CE;
+}
+.bx-user-info-inner-big .bx-user-subtitle-featured {color: #C30808;}
+/* End */
+
+
+/* Start:/local/templates/.default/components/bitrix/intranet.structure.birthday.nearest/.default/style.css?1654759818345*/
+table.bx-users-toolbar {width: 100%; border-collapse:collapse; background-color: #D8E3E8; margin-bottom: 10px;}
+table.bx-users-toolbar td {padding: 5px; white-space: nowrap !important; color: black;}
+table.bx-users-toolbar td.bx-users-toolbar-last {width: 100%; text-align: right;}
+table.bx-users-toolbar td form {padding: 0px; margin: 0px;} 
+/* End */
+
+
+/* Start:/bitrix/components/bitrix/intranet.structure.birthday.nearest/templates/include_area/style.css?16559472681187*/
+.bx-birthday-layout-include {width: 100%;}
+.bx-birthday-layout-include .bx-user-info {border-bottom: solid 1px #C4C4C4; padding: 2px 0px;}
+
+.bx-birthday-layout-include .bx-user-info-inner .bx-user-birthday, .bx-birthday-layout-include .bx-user-info-inner .bx-user-name, .bx-birthday-layout-include .bx-user-info-inner .bx-user-post {margin-bottom: 2px; margin-left: 60px;}
+
+.bx-birthday-layout-include .bx-user-info-inner .bx-user-image {float: left; height: 50px; width: 50px; border: solid 1px #C4C4C4;}
+.bx-birthday-layout-include .bx-user-info-inner .bx-user-image-default {background-image: url('/bitrix/components/bitrix/intranet.structure.birthday.nearest/templates/include_area/images/nopic_user_50_noborder.gif');}
+.bx-birthday-layout-include .bx-user-info-inner .bx-user-image a {display: block; height: 50px; width: 50px; text-decoration: none; text-align: center;}
+.bx-birthday-layout-include .bx-user-info-inner .bx-user-image img {border: 0;}
+.bx-birthday-layout-include .bx-users-delimiter {clear: both;}
+.bx-birthday-layout-include .bx-user-info-inner, .bx-birthday-layout-include .bx-birthday-officelink {margin: 5px 0px;}
+.bx-birthday-layout-include .bx-user-birthday-today {font-weight: bold;}
+
+.bx-user-birthday {
+	color: #82929A;
+	font-size: 0.95em;
+}
+/* End */
+/* /bitrix/components/bitrix/intranet.structure.birthday.nearest/templates/s.a.truhachev/style.css?16559615822640 */
+/* /bitrix/components/bitrix/intranet.system.person/templates/.default/style.css?16548420303002 */
+/* /local/templates/.default/components/bitrix/intranet.structure.birthday.nearest/.default/style.css?1654759818345 */
+/* /bitrix/components/bitrix/intranet.structure.birthday.nearest/templates/include_area/style.css?16559472681187 */

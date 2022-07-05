@@ -1,0 +1,2832 @@
+2022-06-15 14:19:07 123
+2022-06-15 14:24:01 123
+2022-06-15 14:25:31 123
+2022-06-15 14:25:54 123
+2022-06-15 14:26:33 
+2022-06-15 14:34:02 
+2022-06-15 15:03:37 Array
+(
+    [0] => Array
+        (
+            [0] => 1
+        )
+
+    [1] => Array
+        (
+            [0] => 2
+            [1] => 4
+            [2] => 3
+        )
+
+    [2] => Array
+        (
+            [0] => 19
+            [1] => 18
+        )
+
+)
+
+2022-06-15 15:06:46 1
+2022-06-15 15:16:08 Array
+(
+)
+
+2022-06-15 15:26:50 1
+2022-06-15 15:30:44 19
+2022-06-15 15:31:17 19
+2022-06-15 15:31:35 CDBResult Object
+(
+    [result] => 
+    [arResult] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 1
+                    [TIMESTAMP_X] => 15.06.2022 10:39:20
+                    [LOGIN] => admin
+                    [PASSWORD] => $6$JR3US4iGr8yo2LHc$/fsOI8DP5SQ8p3V/fsH6lNByIkNva5UEsIJmSuYK7v11dYWQwdAlzsSNxJF4ycAJrFBJShzHQ..OwsaSgRYss0
+                    [CHECKWORD] => $6$kcyei2X9aZlkNCK2$pRPhVDVrPLBV/6dX8k5W9OnRVXKP46aAsyh3ztsSwDOtk/NsqZc3APZMhnKeNG9Vgp/cMIu6oUFPqLqbXYzh..
+                    [ACTIVE] => Y
+                    [NAME] => seryy
+                    [LAST_NAME] => tru
+                    [EMAIL] => truhachev.sergei@yandex.ru
+                    [LAST_LOGIN] => 15.06.2022 15:31:34
+                    [DATE_REGISTER] => 10.06.2022 09:29:52
+                    [LID] => 
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_GENDER] => 
+                    [PERSONAL_BIRTHDATE] => 
+                    [PERSONAL_PHOTO] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => 
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_MAILBOX] => 
+                    [PERSONAL_CITY] => 
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 0
+                    [PERSONAL_NOTES] => 
+                    [WORK_COMPANY] => 
+                    [WORK_DEPARTMENT] => 
+                    [WORK_POSITION] => 
+                    [WORK_WWW] => 
+                    [WORK_PHONE] => 
+                    [WORK_FAX] => 
+                    [WORK_PAGER] => 
+                    [WORK_STREET] => 
+                    [WORK_MAILBOX] => 
+                    [WORK_CITY] => 
+                    [WORK_STATE] => 
+                    [WORK_ZIP] => 
+                    [WORK_COUNTRY] => 
+                    [WORK_PROFILE] => 
+                    [WORK_LOGO] => 
+                    [WORK_NOTES] => 
+                    [ADMIN_NOTES] => 
+                    [STORED_HASH] => 
+                    [XML_ID] => 
+                    [PERSONAL_BIRTHDAY] => 14.06.2022
+                    [EXTERNAL_AUTH_ID] => 
+                    [CHECKWORD_TIME] => 2022-06-10 09:38:15
+                    [SECOND_NAME] => 
+                    [CONFIRM_CODE] => 
+                    [LOGIN_ATTEMPTS] => 0
+                    [LAST_ACTIVITY_DATE] => 2022-06-15 15:31:17
+                    [AUTO_TIME_ZONE] => 
+                    [TIME_ZONE] => 
+                    [TIME_ZONE_OFFSET] => 0
+                    [TITLE] => 
+                    [BX_USER_ID] => 
+                    [LANGUAGE_ID] => 
+                    [BLOCKED] => N
+                    [PASSWORD_EXPIRED] => N
+                    [IS_ONLINE] => Y
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 19
+                            [1] => 18
+                        )
+
+                    [UF_PHONE_INNER] => 
+                    [UF_USER_CRM_ENTITY] => 
+                    [UF_IM_SEARCH] => 
+                    [UF_CONNECTOR_MD5] => 
+                    [UF_1C] => 
+                    [UF_INN] => 
+                    [UF_DISTRICT] => 
+                    [UF_SKYPE] => 
+                    [UF_SKYPE_LINK] => 
+                    [UF_ZOOM] => 
+                    [UF_TWITTER] => 
+                    [UF_FACEBOOK] => 
+                    [UF_LINKEDIN] => 
+                    [UF_XING] => 
+                    [UF_WEB_SITES] => 
+                    [UF_SKILLS] => 
+                    [UF_INTERESTS] => 
+                    [UF_EMPLOYMENT_DATE] => 
+                    [UF_WORK_BINDING] => 
+                    [UF_BXDAVEX_CALSYNC] => 
+                    [UF_TIMEMAN] => 
+                    [UF_TM_MAX_START] => 
+                    [UF_TM_MIN_FINISH] => 
+                    [UF_TM_MIN_DURATION] => 
+                    [UF_TM_REPORT_REQ] => 
+                    [UF_TM_REPORT_TPL] => 
+                    [UF_TM_FREE] => 
+                    [UF_TM_TIME] => 
+                    [UF_TM_DAY] => 
+                    [UF_TM_REPORT_DATE] => 
+                    [UF_REPORT_PERIOD] => 
+                    [UF_DELAY_TIME] => 
+                    [UF_LAST_REPORT_DATE] => 05.06.2022
+                    [UF_SETTING_DATE] => 
+                    [UF_TM_ALLOWED_DELTA] => 
+                )
+
+        )
+
+    [arReplacedAliases] => 
+    [arResultAdd] => 
+    [bNavStart] => 
+    [bShowAll] => 
+    [NavNum] => 
+    [NavPageCount] => 
+    [NavPageNomer] => 
+    [NavPageSize] => 
+    [NavShowAll] => 
+    [NavRecordCount] => 
+    [bFirstPrintNav] => 1
+    [PAGEN] => 
+    [SIZEN] => 
+    [SESS_SIZEN] => 
+    [SESS_ALL] => 
+    [SESS_PAGEN] => 
+    [add_anchor] => 
+    [bPostNavigation] => 
+    [bFromArray] => 1
+    [bFromLimited] => 
+    [sSessInitAdd] => 
+    [nPageWindow] => 5
+    [nSelectedCount] => 1
+    [arGetNextCache] => 
+    [bDescPageNumbering] => 
+    [arUserFields] => 
+    [usedUserFields] => 
+    [SqlTraceIndex] => 
+    [DB] => 
+    [NavRecordCountChangeDisable] => 
+    [is_filtered] => 
+    [nStartPage] => 0
+    [nEndPage] => 0
+    [resultObject] => 
+)
+
+2022-06-15 15:33:11 CDBResult Object
+(
+    [result] => 
+    [arResult] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 1
+                    [TIMESTAMP_X] => 15.06.2022 10:39:20
+                    [LOGIN] => admin
+                    [PASSWORD] => $6$JR3US4iGr8yo2LHc$/fsOI8DP5SQ8p3V/fsH6lNByIkNva5UEsIJmSuYK7v11dYWQwdAlzsSNxJF4ycAJrFBJShzHQ..OwsaSgRYss0
+                    [CHECKWORD] => $6$kcyei2X9aZlkNCK2$pRPhVDVrPLBV/6dX8k5W9OnRVXKP46aAsyh3ztsSwDOtk/NsqZc3APZMhnKeNG9Vgp/cMIu6oUFPqLqbXYzh..
+                    [ACTIVE] => Y
+                    [NAME] => seryy
+                    [LAST_NAME] => tru
+                    [EMAIL] => truhachev.sergei@yandex.ru
+                    [LAST_LOGIN] => 15.06.2022 15:33:10
+                    [DATE_REGISTER] => 10.06.2022 09:29:52
+                    [LID] => 
+                    [PERSONAL_PROFESSION] => 
+                    [PERSONAL_WWW] => 
+                    [PERSONAL_ICQ] => 
+                    [PERSONAL_GENDER] => 
+                    [PERSONAL_BIRTHDATE] => 
+                    [PERSONAL_PHOTO] => 
+                    [PERSONAL_PHONE] => 
+                    [PERSONAL_FAX] => 
+                    [PERSONAL_MOBILE] => 
+                    [PERSONAL_PAGER] => 
+                    [PERSONAL_STREET] => 
+                    [PERSONAL_MAILBOX] => 
+                    [PERSONAL_CITY] => 
+                    [PERSONAL_STATE] => 
+                    [PERSONAL_ZIP] => 
+                    [PERSONAL_COUNTRY] => 0
+                    [PERSONAL_NOTES] => 
+                    [WORK_COMPANY] => 
+                    [WORK_DEPARTMENT] => 
+                    [WORK_POSITION] => 
+                    [WORK_WWW] => 
+                    [WORK_PHONE] => 
+                    [WORK_FAX] => 
+                    [WORK_PAGER] => 
+                    [WORK_STREET] => 
+                    [WORK_MAILBOX] => 
+                    [WORK_CITY] => 
+                    [WORK_STATE] => 
+                    [WORK_ZIP] => 
+                    [WORK_COUNTRY] => 
+                    [WORK_PROFILE] => 
+                    [WORK_LOGO] => 
+                    [WORK_NOTES] => 
+                    [ADMIN_NOTES] => 
+                    [STORED_HASH] => 
+                    [XML_ID] => 
+                    [PERSONAL_BIRTHDAY] => 14.06.2022
+                    [EXTERNAL_AUTH_ID] => 
+                    [CHECKWORD_TIME] => 2022-06-10 09:38:15
+                    [SECOND_NAME] => 
+                    [CONFIRM_CODE] => 
+                    [LOGIN_ATTEMPTS] => 0
+                    [LAST_ACTIVITY_DATE] => 2022-06-15 15:31:34
+                    [AUTO_TIME_ZONE] => 
+                    [TIME_ZONE] => 
+                    [TIME_ZONE_OFFSET] => 0
+                    [TITLE] => 
+                    [BX_USER_ID] => 
+                    [LANGUAGE_ID] => 
+                    [BLOCKED] => N
+                    [PASSWORD_EXPIRED] => N
+                    [IS_ONLINE] => Y
+                    [UF_DEPARTMENT] => Array
+                        (
+                            [0] => 19
+                            [1] => 18
+                        )
+
+                    [UF_PHONE_INNER] => 
+                    [UF_USER_CRM_ENTITY] => 
+                    [UF_IM_SEARCH] => 
+                    [UF_CONNECTOR_MD5] => 
+                    [UF_1C] => 
+                    [UF_INN] => 
+                    [UF_DISTRICT] => 
+                    [UF_SKYPE] => 
+                    [UF_SKYPE_LINK] => 
+                    [UF_ZOOM] => 
+                    [UF_TWITTER] => 
+                    [UF_FACEBOOK] => 
+                    [UF_LINKEDIN] => 
+                    [UF_XING] => 
+                    [UF_WEB_SITES] => 
+                    [UF_SKILLS] => 
+                    [UF_INTERESTS] => 
+                    [UF_EMPLOYMENT_DATE] => 
+                    [UF_WORK_BINDING] => 
+                    [UF_BXDAVEX_CALSYNC] => 
+                    [UF_TIMEMAN] => 
+                    [UF_TM_MAX_START] => 
+                    [UF_TM_MIN_FINISH] => 
+                    [UF_TM_MIN_DURATION] => 
+                    [UF_TM_REPORT_REQ] => 
+                    [UF_TM_REPORT_TPL] => 
+                    [UF_TM_FREE] => 
+                    [UF_TM_TIME] => 
+                    [UF_TM_DAY] => 
+                    [UF_TM_REPORT_DATE] => 
+                    [UF_REPORT_PERIOD] => 
+                    [UF_DELAY_TIME] => 
+                    [UF_LAST_REPORT_DATE] => 05.06.2022
+                    [UF_SETTING_DATE] => 
+                    [UF_TM_ALLOWED_DELTA] => 
+                )
+
+        )
+
+    [arReplacedAliases] => 
+    [arResultAdd] => 
+    [bNavStart] => 
+    [bShowAll] => 
+    [NavNum] => 
+    [NavPageCount] => 
+    [NavPageNomer] => 
+    [NavPageSize] => 
+    [NavShowAll] => 
+    [NavRecordCount] => 
+    [bFirstPrintNav] => 1
+    [PAGEN] => 
+    [SIZEN] => 
+    [SESS_SIZEN] => 
+    [SESS_ALL] => 
+    [SESS_PAGEN] => 
+    [add_anchor] => 
+    [bPostNavigation] => 
+    [bFromArray] => 1
+    [bFromLimited] => 
+    [sSessInitAdd] => 
+    [nPageWindow] => 5
+    [nSelectedCount] => 1
+    [arGetNextCache] => 
+    [bDescPageNumbering] => 
+    [arUserFields] => 
+    [usedUserFields] => 
+    [SqlTraceIndex] => 
+    [DB] => 
+    [NavRecordCountChangeDisable] => 
+    [is_filtered] => 
+    [nStartPage] => 0
+    [nEndPage] => 0
+    [resultObject] => 
+)
+
+2022-06-15 15:41:17 CIBlockResult Object
+(
+    [arIBlockMultProps] => 
+    [arIBlockConvProps] => 
+    [arIBlockAllProps] => 
+    [arIBlockNumProps] => 
+    [arIBlockLongProps] => 
+    [nInitialSize] => 
+    [table_id] => 
+    [strDetailUrl] => 
+    [strSectionUrl] => 
+    [strListUrl] => 
+    [arSectionContext] => 
+    [bIBlockSection] => 
+    [nameTemplate] => 
+    [_LAST_IBLOCK_ID] => 
+    [_FILTER_IBLOCK_ID] => Array
+        (
+        )
+
+    [result] => mysqli_result Object
+        (
+            [current_field] => 0
+            [field_count] => 31
+            [lengths] => 
+            [num_rows] => 1
+            [type] => 0
+        )
+
+    [arResult] => 
+    [arReplacedAliases] => 
+    [arResultAdd] => 
+    [bNavStart] => 
+    [bShowAll] => 
+    [NavNum] => 
+    [NavPageCount] => 
+    [NavPageNomer] => 
+    [NavPageSize] => 
+    [NavShowAll] => 
+    [NavRecordCount] => 
+    [bFirstPrintNav] => 1
+    [PAGEN] => 
+    [SIZEN] => 
+    [SESS_SIZEN] => 
+    [SESS_ALL] => 
+    [SESS_PAGEN] => 
+    [add_anchor] => 
+    [bPostNavigation] => 
+    [bFromArray] => 
+    [bFromLimited] => 
+    [sSessInitAdd] => 
+    [nPageWindow] => 5
+    [nSelectedCount] => 
+    [arGetNextCache] => 
+    [bDescPageNumbering] => 
+    [arUserFields] => 
+    [usedUserFields] => 
+    [SqlTraceIndex] => 
+    [DB] => CDatabase Object
+        (
+            [db_Conn] => mysqli Object
+                (
+                    [affected_rows] => 1
+                    [client_info] => mysqlnd 7.4.29
+                    [client_version] => 70429
+                    [connect_errno] => 0
+                    [connect_error] => 
+                    [errno] => 0
+                    [error] => 
+                    [error_list] => Array
+                        (
+                        )
+
+                    [field_count] => 31
+                    [host_info] => localhost via TCP/IP
+                    [info] => 
+                    [insert_id] => 0
+                    [server_info] => 5.6.51
+                    [server_version] => 50651
+                    [sqlstate] => 00000
+                    [protocol_version] => 10
+                    [thread_id] => 686
+                    [warning_count] => 0
+                )
+
+            [version] => 
+            [type] => MYSQL
+            [escL] => `
+            [escR] => `
+            [alias_length] => 256
+            [DBName] => site_test
+            [DBHost] => localhost
+            [DBLogin] => root
+            [DBPassword] => root
+            [bConnected] => 1
+            [debug] => 
+            [DebugToFile] => 
+            [ShowSqlStat] => 
+            [db_Error] => 
+            [db_ErrorSQL] => 
+            [result] => 
+            [column_cache] => Array
+                (
+                    [b_event_log] => Array
+                        (
+                            [ID] => Array
+                                (
+                                    [NAME] => ID
+                                    [TYPE] => int
+                                )
+
+                            [TIMESTAMP_X] => Array
+                                (
+                                    [NAME] => TIMESTAMP_X
+                                    [TYPE] => datetime
+                                )
+
+                            [SEVERITY] => Array
+                                (
+                                    [NAME] => SEVERITY
+                                    [TYPE] => string
+                                )
+
+                            [AUDIT_TYPE_ID] => Array
+                                (
+                                    [NAME] => AUDIT_TYPE_ID
+                                    [TYPE] => string
+                                )
+
+                            [MODULE_ID] => Array
+                                (
+                                    [NAME] => MODULE_ID
+                                    [TYPE] => string
+                                )
+
+                            [ITEM_ID] => Array
+                                (
+                                    [NAME] => ITEM_ID
+                                    [TYPE] => string
+                                )
+
+                            [REMOTE_ADDR] => Array
+                                (
+                                    [NAME] => REMOTE_ADDR
+                                    [TYPE] => string
+                                )
+
+                            [USER_AGENT] => Array
+                                (
+                                    [NAME] => USER_AGENT
+                                    [TYPE] => string
+                                )
+
+                            [REQUEST_URI] => Array
+                                (
+                                    [NAME] => REQUEST_URI
+                                    [TYPE] => string
+                                )
+
+                            [SITE_ID] => Array
+                                (
+                                    [NAME] => SITE_ID
+                                    [TYPE] => string
+                                )
+
+                            [USER_ID] => Array
+                                (
+                                    [NAME] => USER_ID
+                                    [TYPE] => int
+                                )
+
+                            [GUEST_ID] => Array
+                                (
+                                    [NAME] => GUEST_ID
+                                    [TYPE] => int
+                                )
+
+                            [DESCRIPTION] => Array
+                                (
+                                    [NAME] => DESCRIPTION
+                                    [TYPE] => string
+                                )
+
+                        )
+
+                    [b_sale_fuser] => Array
+                        (
+                            [ID] => Array
+                                (
+                                    [NAME] => ID
+                                    [TYPE] => int
+                                )
+
+                            [DATE_INSERT] => Array
+                                (
+                                    [NAME] => DATE_INSERT
+                                    [TYPE] => datetime
+                                )
+
+                            [DATE_UPDATE] => Array
+                                (
+                                    [NAME] => DATE_UPDATE
+                                    [TYPE] => datetime
+                                )
+
+                            [USER_ID] => Array
+                                (
+                                    [NAME] => USER_ID
+                                    [TYPE] => int
+                                )
+
+                            [CODE] => Array
+                                (
+                                    [NAME] => CODE
+                                    [TYPE] => string
+                                )
+
+                        )
+
+                )
+
+            [bModuleConnection] => 
+            [bNodeConnection] => 
+            [node_id] => 
+            [obSlave] => 
+            [connection:protected] => Bitrix\Main\DB\MysqliConnection Object
+                (
+                    [engine:protected] => 
+                    [sqlHelper:protected] => Bitrix\Main\DB\MysqliSqlHelper Object
+                        (
+                            [connection:protected] => Bitrix\Main\DB\MysqliConnection Object
+ *RECURSION*
+                            [idCache:protected] => Array
+                                (
+                                    [main_localization_culture] => `main_localization_culture`
+                                    [ID] => `ID`
+                                    [CODE] => `CODE`
+                                    [NAME] => `NAME`
+                                    [FORMAT_DATE] => `FORMAT_DATE`
+                                    [FORMAT_DATETIME] => `FORMAT_DATETIME`
+                                    [FORMAT_NAME] => `FORMAT_NAME`
+                                    [WEEK_START] => `WEEK_START`
+                                    [CHARSET] => `CHARSET`
+                                    [DIRECTION] => `DIRECTION`
+                                    [SHORT_DATE_FORMAT] => `SHORT_DATE_FORMAT`
+                                    [MEDIUM_DATE_FORMAT] => `MEDIUM_DATE_FORMAT`
+                                    [LONG_DATE_FORMAT] => `LONG_DATE_FORMAT`
+                                    [FULL_DATE_FORMAT] => `FULL_DATE_FORMAT`
+                                    [DAY_MONTH_FORMAT] => `DAY_MONTH_FORMAT`
+                                    [DAY_SHORT_MONTH_FORMAT] => `DAY_SHORT_MONTH_FORMAT`
+                                    [DAY_OF_WEEK_MONTH_FORMAT] => `DAY_OF_WEEK_MONTH_FORMAT`
+                                    [SHORT_DAY_OF_WEEK_MONTH_FORMAT] => `SHORT_DAY_OF_WEEK_MONTH_FORMAT`
+                                    [SHORT_DAY_OF_WEEK_SHORT_MONTH_FORMAT] => `SHORT_DAY_OF_WEEK_SHORT_MONTH_FORMAT`
+                                    [SHORT_TIME_FORMAT] => `SHORT_TIME_FORMAT`
+                                    [LONG_TIME_FORMAT] => `LONG_TIME_FORMAT`
+                                    [AM_VALUE] => `AM_VALUE`
+                                    [PM_VALUE] => `PM_VALUE`
+                                    [NUMBER_THOUSANDS_SEPARATOR] => `NUMBER_THOUSANDS_SEPARATOR`
+                                    [NUMBER_DECIMAL_SEPARATOR] => `NUMBER_DECIMAL_SEPARATOR`
+                                    [NUMBER_DECIMALS] => `NUMBER_DECIMALS`
+                                    [b_culture] => `b_culture`
+                                    [main_group] => `main_group`
+                                    [ANONYMOUS] => `ANONYMOUS`
+                                    [ACTIVE] => `ACTIVE`
+                                    [b_group] => `b_group`
+                                    [main_group_user_group_group] => `main_group_user_group_group`
+                                    [GROUP_ID] => `GROUP_ID`
+                                    [b_user_group] => `b_user_group`
+                                    [USER_ID] => `USER_ID`
+                                    [UALIAS_0] => `UALIAS_0`
+                                    [UALIAS_1] => `UALIAS_1`
+                                    [DATE_ACTIVE_FROM] => `DATE_ACTIVE_FROM`
+                                    [DATE_ACTIVE_TO] => `DATE_ACTIVE_TO`
+                                    [b_user_option] => `b_user_option`
+                                    [CATEGORY] => `CATEGORY`
+                                    [VALUE] => `VALUE`
+                                    [COMMON] => `COMMON`
+                                    [main_user_auth_action] => `main_user_auth_action`
+                                    [PRIORITY] => `PRIORITY`
+                                    [ACTION] => `ACTION`
+                                    [ACTION_DATE] => `ACTION_DATE`
+                                    [APPLICATION_ID] => `APPLICATION_ID`
+                                    [b_user_auth_action] => `b_user_auth_action`
+                                    [CONDITION] => `CONDITION`
+                                    [abtest_a_btest] => `abtest_a_btest`
+                                    [SITE_ID] => `SITE_ID`
+                                    [ENABLED] => `ENABLED`
+                                    [DESCR] => `DESCR`
+                                    [TEST_DATA] => `TEST_DATA`
+                                    [START_DATE] => `START_DATE`
+                                    [STOP_DATE] => `STOP_DATE`
+                                    [DURATION] => `DURATION`
+                                    [PORTION] => `PORTION`
+                                    [MIN_AMOUNT] => `MIN_AMOUNT`
+                                    [SORT] => `SORT`
+                                    [b_abtest] => `b_abtest`
+                                    [main_site] => `main_site`
+                                    [LID] => `LID`
+                                    [DEF] => `DEF`
+                                    [DIR] => `DIR`
+                                    [LANGUAGE_ID] => `LANGUAGE_ID`
+                                    [DOC_ROOT] => `DOC_ROOT`
+                                    [DOMAIN_LIMITED] => `DOMAIN_LIMITED`
+                                    [SERVER_NAME] => `SERVER_NAME`
+                                    [SITE_NAME] => `SITE_NAME`
+                                    [EMAIL] => `EMAIL`
+                                    [CULTURE_ID] => `CULTURE_ID`
+                                    [b_lang] => `b_lang`
+                                    [socialservices_ap] => `socialservices_ap`
+                                    [TIMESTAMP_X] => `TIMESTAMP_X`
+                                    [DOMAIN] => `DOMAIN`
+                                    [ENDPOINT] => `ENDPOINT`
+                                    [LOGIN] => `LOGIN`
+                                    [PASSWORD] => `PASSWORD`
+                                    [LAST_AUTHORIZE] => `LAST_AUTHORIZE`
+                                    [SETTINGS] => `SETTINGS`
+                                    [b_socialservices_ap] => `b_socialservices_ap`
+                                    [intranet_internals_theme] => `intranet_internals_theme`
+                                    [THEME_ID] => `THEME_ID`
+                                    [ENTITY_TYPE] => `ENTITY_TYPE`
+                                    [ENTITY_ID] => `ENTITY_ID`
+                                    [CONTEXT] => `CONTEXT`
+                                    [b_intranet_theme] => `b_intranet_theme`
+                                    [timeman_model_security_task_access_code] => `timeman_model_security_task_access_code`
+                                    [TASK_ID] => `TASK_ID`
+                                    [timeman_model_security_task_access_code_task_operation] => `timeman_model_security_task_access_code_task_operation`
+                                    [OPERATION_ID] => `OPERATION_ID`
+                                    [timeman_model_security_task_access_code_task_operation_operation] => `timeman_model_security_task_access_code_task_operation_operation`
+                                    [ACCESS_CODE] => `ACCESS_CODE`
+                                    [timeman_model_security_task_access_code_user_access] => `timeman_model_security_task_access_code_user_access`
+                                    [b_task_operation] => `b_task_operation`
+                                    [b_operation] => `b_operation`
+                                    [b_user_access] => `b_user_access`
+                                    [OPNAME] => `OPNAME`
+                                    [UALIAS_2] => `UALIAS_2`
+                                    [UALIAS_3] => `UALIAS_3`
+                                    [UALIAS_4] => `UALIAS_4`
+                                    [UALIAS_5] => `UALIAS_5`
+                                    [UALIAS_6] => `UALIAS_6`
+                                    [PROVIDER_ID] => `PROVIDER_ID`
+                                    [UALIAS_7] => `UALIAS_7`
+                                    [UALIAS_8] => `UALIAS_8`
+                                    [b_timeman_task_access_code] => `b_timeman_task_access_code`
+                                    [timeman_model_worktime_record_worktime_record] => `timeman_model_worktime_record_worktime_record`
+                                    [SCHEDULE_ID] => `SCHEDULE_ID`
+                                    [timeman_model_worktime_record_worktime_record_schedule] => `timeman_model_worktime_record_worktime_record_schedule`
+                                    [b_timeman_work_schedule] => `b_timeman_work_schedule`
+                                    [SHIFT_ID] => `SHIFT_ID`
+                                    [timeman_model_worktime_record_worktime_record_shift] => `timeman_model_worktime_record_worktime_record_shift`
+                                    [b_timeman_work_shift] => `b_timeman_work_shift`
+                                    [timeman_model_worktime_record_worktime_record_schedule_schedule_violation_rules] => `timeman_model_worktime_record_worktime_record_schedule_schedule_violation_rules`
+                                    [ENTITY_CODE] => `ENTITY_CODE`
+                                    [b_timeman_work_schedule_violation_rules] => `b_timeman_work_schedule_violation_rules`
+                                    [RECORDED_START_TIMESTAMP] => `RECORDED_START_TIMESTAMP`
+                                    [START_OFFSET] => `START_OFFSET`
+                                    [ACTUAL_START_TIMESTAMP] => `ACTUAL_START_TIMESTAMP`
+                                    [RECORDED_STOP_TIMESTAMP] => `RECORDED_STOP_TIMESTAMP`
+                                    [STOP_OFFSET] => `STOP_OFFSET`
+                                    [ACTUAL_STOP_TIMESTAMP] => `ACTUAL_STOP_TIMESTAMP`
+                                    [CURRENT_STATUS] => `CURRENT_STATUS`
+                                    [RECORDED_DURATION] => `RECORDED_DURATION`
+                                    [TIME_LEAKS] => `TIME_LEAKS`
+                                    [ACTUAL_BREAK_LENGTH] => `ACTUAL_BREAK_LENGTH`
+                                    [AUTO_CLOSING_AGENT_ID] => `AUTO_CLOSING_AGENT_ID`
+                                    [APPROVED] => `APPROVED`
+                                    [MODIFIED_BY] => `MODIFIED_BY`
+                                    [APPROVED_BY] => `APPROVED_BY`
+                                    [PAUSED] => `PAUSED`
+                                    [DATE_START] => `DATE_START`
+                                    [DATE_FINISH] => `DATE_FINISH`
+                                    [TIME_START] => `TIME_START`
+                                    [TIME_FINISH] => `TIME_FINISH`
+                                    [TASKS] => `TASKS`
+                                    [IP_OPEN] => `IP_OPEN`
+                                    [IP_CLOSE] => `IP_CLOSE`
+                                    [FORUM_TOPIC_ID] => `FORUM_TOPIC_ID`
+                                    [LAT_OPEN] => `LAT_OPEN`
+                                    [LON_OPEN] => `LON_OPEN`
+                                    [LAT_CLOSE] => `LAT_CLOSE`
+                                    [LON_CLOSE] => `LON_CLOSE`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_ID] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_ID`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_NAME] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_NAME`
+                                    [SCHEDULE_TYPE] => `SCHEDULE_TYPE`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_TYPE] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_TYPE`
+                                    [REPORT_PERIOD] => `REPORT_PERIOD`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_REPORT_PERIOD] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_REPORT_PERIOD`
+                                    [REPORT_PERIOD_OPTIONS] => `REPORT_PERIOD_OPTIONS`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_REPORT_PERIOD_OPTIONS] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_REPORT_PERIOD_OPTIONS`
+                                    [CALENDAR_ID] => `CALENDAR_ID`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_CALENDAR_ID] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_CALENDAR_ID`
+                                    [ALLOWED_DEVICES] => `ALLOWED_DEVICES`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_ALLOWED_DEVICES] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_ALLOWED_DEVICES`
+                                    [DELETED] => `DELETED`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_DELETED] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_DELETED`
+                                    [IS_FOR_ALL_USERS] => `IS_FOR_ALL_USERS`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_IS_FOR_ALL_USERS] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_IS_FOR_ALL_USERS`
+                                    [WORKTIME_RESTRICTIONS] => `WORKTIME_RESTRICTIONS`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_WORKTIME_RESTRICTIONS] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_WORKTIME_RESTRICTIONS`
+                                    [CONTROLLED_ACTIONS] => `CONTROLLED_ACTIONS`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_CONTROLLED_ACTIONS] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_CONTROLLED_ACTIONS`
+                                    [UPDATED_BY] => `UPDATED_BY`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_UPDATED_BY] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_UPDATED_BY`
+                                    [DELETED_BY] => `DELETED_BY`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_DELETED_BY] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_DELETED_BY`
+                                    [DELETED_AT] => `DELETED_AT`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_DELETED_AT] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_DELETED_AT`
+                                    [CREATED_BY] => `CREATED_BY`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_CREATED_BY] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_CREATED_BY`
+                                    [CREATED_AT] => `CREATED_AT`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_CREATED_AT] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_CREATED_AT`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_ID] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_ID`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_SCHEDULE_ID] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_SCHEDULE_ID`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_ENTITY_CODE] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_ENTITY_CODE`
+                                    [MAX_EXACT_START] => `MAX_EXACT_START`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_EXACT_START] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_EXACT_START`
+                                    [MIN_EXACT_END] => `MIN_EXACT_END`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_EXACT_END] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_EXACT_END`
+                                    [MAX_OFFSET_START] => `MAX_OFFSET_START`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_OFFSET_START] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_OFFSET_START`
+                                    [MIN_OFFSET_END] => `MIN_OFFSET_END`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_OFFSET_END] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_OFFSET_END`
+                                    [RELATIVE_START_FROM] => `RELATIVE_START_FROM`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_START_FROM] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_START_FROM`
+                                    [RELATIVE_START_TO] => `RELATIVE_START_TO`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_START_TO] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_START_TO`
+                                    [RELATIVE_END_FROM] => `RELATIVE_END_FROM`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_END_FROM] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_END_FROM`
+                                    [RELATIVE_END_TO] => `RELATIVE_END_TO`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_END_TO] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_END_TO`
+                                    [MIN_DAY_DURATION] => `MIN_DAY_DURATION`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_DAY_DURATION] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_DAY_DURATION`
+                                    [MAX_ALLOWED_TO_EDIT_WORK_TIME] => `MAX_ALLOWED_TO_EDIT_WORK_TIME`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_ALLOWED_TO_EDIT_WORK_TIME] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_ALLOWED_TO_EDIT_WORK_TIME`
+                                    [MAX_WORK_TIME_LACK_FOR_PERIOD] => `MAX_WORK_TIME_LACK_FOR_PERIOD`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_WORK_TIME_LACK_FOR_PERIOD] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_WORK_TIME_LACK_FOR_PERIOD`
+                                    [PERIOD_TIME_LACK_AGENT_ID] => `PERIOD_TIME_LACK_AGENT_ID`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_PERIOD_TIME_LACK_AGENT_ID] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_PERIOD_TIME_LACK_AGENT_ID`
+                                    [MAX_SHIFT_START_DELAY] => `MAX_SHIFT_START_DELAY`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_SHIFT_START_DELAY] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_SHIFT_START_DELAY`
+                                    [MISSED_SHIFT_START] => `MISSED_SHIFT_START`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MISSED_SHIFT_START] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_MISSED_SHIFT_START`
+                                    [USERS_TO_NOTIFY] => `USERS_TO_NOTIFY`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_USERS_TO_NOTIFY] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SCHEDULE_SCHEDULE_VIOLATION_RULES_USERS_TO_NOTIFY`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_ID] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_ID`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_NAME] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_NAME`
+                                    [BREAK_DURATION] => `BREAK_DURATION`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_BREAK_DURATION] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_BREAK_DURATION`
+                                    [WORK_TIME_START] => `WORK_TIME_START`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_WORK_TIME_START] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_WORK_TIME_START`
+                                    [WORK_TIME_END] => `WORK_TIME_END`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_WORK_TIME_END] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_WORK_TIME_END`
+                                    [WORK_DAYS] => `WORK_DAYS`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_WORK_DAYS] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_WORK_DAYS`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_SCHEDULE_ID] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_SCHEDULE_ID`
+                                    [TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_DELETED] => `TIMEMAN_MODEL_WORKTIME_RECORD_WORKTIME_RECORD_SHIFT_DELETED`
+                                    [b_timeman_entries] => `b_timeman_entries`
+                                    [timeman_model_schedule_assignment_user_schedule_user] => `timeman_model_schedule_assignment_user_schedule_user`
+                                    [timeman_model_schedule_assignment_user_schedule_user_schedule] => `timeman_model_schedule_assignment_user_schedule_user_schedule`
+                                    [STATUS] => `STATUS`
+                                    [b_timeman_work_schedule_user] => `b_timeman_work_schedule_user`
+                                    [timeman_model_schedule_assignment_department_schedule_department] => `timeman_model_schedule_assignment_department_schedule_department`
+                                    [timeman_model_schedule_assignment_department_schedule_department_schedule] => `timeman_model_schedule_assignment_department_schedule_department_schedule`
+                                    [DEPARTMENT_ID] => `DEPARTMENT_ID`
+                                    [b_timeman_work_schedule_department] => `b_timeman_work_schedule_department`
+                                    [timeman_model_schedule_schedule] => `timeman_model_schedule_schedule`
+                                    [timeman_model_schedule_schedule_schedule_department_schedule] => `timeman_model_schedule_schedule_schedule_department_schedule`
+                                    [timeman_model_schedule_schedule_schedule_violation_rules] => `timeman_model_schedule_schedule_schedule_violation_rules`
+                                    [timeman_model_schedule_schedule_shift_schedule] => `timeman_model_schedule_schedule_shift_schedule`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_DEPARTMENTS_SCHEDULE_ID] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_DEPARTMENTS_SCHEDULE_ID`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_DEPARTMENTS_DEPARTMENT_ID] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_DEPARTMENTS_DEPARTMENT_ID`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_DEPARTMENTS_STATUS] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_DEPARTMENTS_STATUS`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_ID] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_ID`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_SCHEDULE_ID] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_SCHEDULE_ID`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_ENTITY_CODE] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_ENTITY_CODE`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_EXACT_START] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_EXACT_START`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_EXACT_END] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_EXACT_END`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_OFFSET_START] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_OFFSET_START`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_OFFSET_END] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_OFFSET_END`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_START_FROM] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_START_FROM`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_START_TO] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_START_TO`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_END_FROM] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_END_FROM`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_END_TO] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_RELATIVE_END_TO`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_DAY_DURATION] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MIN_DAY_DURATION`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_ALLOWED_TO_EDIT_WORK_TIME] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_ALLOWED_TO_EDIT_WORK_TIME`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_WORK_TIME_LACK_FOR_PERIOD] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_WORK_TIME_LACK_FOR_PERIOD`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_PERIOD_TIME_LACK_AGENT_ID] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_PERIOD_TIME_LACK_AGENT_ID`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_SHIFT_START_DELAY] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MAX_SHIFT_START_DELAY`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MISSED_SHIFT_START] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_MISSED_SHIFT_START`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_USERS_TO_NOTIFY] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SCHEDULE_VIOLATION_RULES_USERS_TO_NOTIFY`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_ID] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_ID`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_NAME] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_NAME`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_BREAK_DURATION] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_BREAK_DURATION`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_WORK_TIME_START] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_WORK_TIME_START`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_WORK_TIME_END] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_WORK_TIME_END`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_WORK_DAYS] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_WORK_DAYS`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_SCHEDULE_ID] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_SCHEDULE_ID`
+                                    [TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_DELETED] => `TIMEMAN_MODEL_SCHEDULE_SCHEDULE_SHIFTS_DELETED`
+                                    [imopenlines_model_config_queue] => `imopenlines_model_config_queue`
+                                    [CONFIG_ID] => `CONFIG_ID`
+                                    [imopenlines_model_config] => `imopenlines_model_config`
+                                    [b_imopenlines_queue] => `b_imopenlines_queue`
+                                    [LINE_NAME] => `LINE_NAME`
+                                    [SESSION_PRIORITY] => `SESSION_PRIORITY`
+                                    [QUEUE_TYPE] => `QUEUE_TYPE`
+                                    [b_imopenlines_config] => `b_imopenlines_config`
+                                    [intranet_customsection_entity_custom_section] => `intranet_customsection_entity_custom_section`
+                                    [TITLE] => `TITLE`
+                                    [MODULE_ID] => `MODULE_ID`
+                                    [b_intranet_custom_section] => `b_intranet_custom_section`
+                                    [imconnector_model_custom_connectors] => `imconnector_model_custom_connectors`
+                                    [ID_CONNECTOR] => `ID_CONNECTOR`
+                                    [ICON] => `ICON`
+                                    [ICON_DISABLED] => `ICON_DISABLED`
+                                    [COMPONENT] => `COMPONENT`
+                                    [DEL_EXTERNAL_MESSAGES] => `DEL_EXTERNAL_MESSAGES`
+                                    [EDIT_INTERNAL_MESSAGES] => `EDIT_INTERNAL_MESSAGES`
+                                    [DEL_INTERNAL_MESSAGES] => `DEL_INTERNAL_MESSAGES`
+                                    [NEWSLETTER] => `NEWSLETTER`
+                                    [NEED_SYSTEM_MESSAGES] => `NEED_SYSTEM_MESSAGES`
+                                    [NEED_SIGNATURE] => `NEED_SIGNATURE`
+                                    [CHAT_GROUP] => `CHAT_GROUP`
+                                    [REST_APP_ID] => `REST_APP_ID`
+                                    [REST_PLACEMENT_ID] => `REST_PLACEMENT_ID`
+                                    [b_imconnectors_custom_connectors] => `b_imconnectors_custom_connectors`
+                                    [im_model_recent_attach] => `im_model_recent_attach`
+                                    [MESSAGE_ID] => `MESSAGE_ID`
+                                    [im_model_recent] => `im_model_recent`
+                                    [ITEM_MID] => `ITEM_MID`
+                                    [PARAM_NAME] => `PARAM_NAME`
+                                    [im_model_recent_file] => `im_model_recent_file`
+                                    [im_model_recent_code] => `im_model_recent_code`
+                                    [ITEM_TYPE] => `ITEM_TYPE`
+                                    [im_model_recent_user] => `im_model_recent_user`
+                                    [ITEM_ID] => `ITEM_ID`
+                                    [im_model_recent_status] => `im_model_recent_status`
+                                    [im_model_recent_invitation] => `im_model_recent_invitation`
+                                    [ITEM_RID] => `ITEM_RID`
+                                    [im_model_recent_relation] => `im_model_recent_relation`
+                                    [im_model_recent_message] => `im_model_recent_message`
+                                    [AUTHOR_ID] => `AUTHOR_ID`
+                                    [im_model_recent_message_author] => `im_model_recent_message_author`
+                                    [im_model_recent_message_status] => `im_model_recent_message_status`
+                                    [ITEM_CID] => `ITEM_CID`
+                                    [im_model_recent_chat] => `im_model_recent_chat`
+                                    [b_im_message_param] => `b_im_message_param`
+                                    [b_user] => `b_user`
+                                    [b_im_status] => `b_im_status`
+                                    [b_intranet_invitation] => `b_intranet_invitation`
+                                    [b_im_relation] => `b_im_relation`
+                                    [b_im_message] => `b_im_message`
+                                    [b_im_chat] => `b_im_chat`
+                                    [ITEM_OLID] => `ITEM_OLID`
+                                    [PINNED] => `PINNED`
+                                    [UNREAD] => `UNREAD`
+                                    [DATE_MESSAGE] => `DATE_MESSAGE`
+                                    [DATE_UPDATE] => `DATE_UPDATE`
+                                    [COUNTER] => `COUNTER`
+                                    [MESSAGE_AUTHOR_ID] => `MESSAGE_AUTHOR_ID`
+                                    [MESSAGE] => `MESSAGE`
+                                    [MESSAGE_TEXT] => `MESSAGE_TEXT`
+                                    [MESSAGE_FILE] => `MESSAGE_FILE`
+                                    [DATE_CREATE] => `DATE_CREATE`
+                                    [MESSAGE_DATE] => `MESSAGE_DATE`
+                                    [MESSAGE_ATTACH] => `MESSAGE_ATTACH`
+                                    [PARAM_VALUE] => `PARAM_VALUE`
+                                    [MESSAGE_CODE] => `MESSAGE_CODE`
+                                    [LAST_ACTIVITY_DATE] => `LAST_ACTIVITY_DATE`
+                                    [MESSAGE_USER_LAST_ACTIVITY_DATE] => `MESSAGE_USER_LAST_ACTIVITY_DATE`
+                                    [IDLE] => `IDLE`
+                                    [MESSAGE_USER_IDLE] => `MESSAGE_USER_IDLE`
+                                    [MOBILE_LAST_DATE] => `MOBILE_LAST_DATE`
+                                    [MESSAGE_USER_MOBILE_LAST_DATE] => `MESSAGE_USER_MOBILE_LAST_DATE`
+                                    [DESKTOP_LAST_DATE] => `DESKTOP_LAST_DATE`
+                                    [MESSAGE_USER_DESKTOP_LAST_DATE] => `MESSAGE_USER_DESKTOP_LAST_DATE`
+                                    [RELATION_USER_ID] => `RELATION_USER_ID`
+                                    [NOTIFY_BLOCK] => `NOTIFY_BLOCK`
+                                    [RELATION_NOTIFY_BLOCK] => `RELATION_NOTIFY_BLOCK`
+                                    [MANAGER] => `MANAGER`
+                                    [RELATION_IS_MANAGER] => `RELATION_IS_MANAGER`
+                                    [CHAT_ID] => `CHAT_ID`
+                                    [CHAT_TITLE] => `CHAT_TITLE`
+                                    [TYPE] => `TYPE`
+                                    [CHAT_TYPE] => `CHAT_TYPE`
+                                    [AVATAR] => `AVATAR`
+                                    [CHAT_AVATAR] => `CHAT_AVATAR`
+                                    [LAST_MESSAGE_STATUS] => `LAST_MESSAGE_STATUS`
+                                    [CHAT_LAST_MESSAGE_STATUS] => `CHAT_LAST_MESSAGE_STATUS`
+                                    [CHAT_AUTHOR_ID] => `CHAT_AUTHOR_ID`
+                                    [EXTRANET] => `EXTRANET`
+                                    [CHAT_EXTRANET] => `CHAT_EXTRANET`
+                                    [COLOR] => `COLOR`
+                                    [CHAT_COLOR] => `CHAT_COLOR`
+                                    [CHAT_ENTITY_TYPE] => `CHAT_ENTITY_TYPE`
+                                    [CHAT_ENTITY_ID] => `CHAT_ENTITY_ID`
+                                    [ENTITY_DATA_1] => `ENTITY_DATA_1`
+                                    [CHAT_ENTITY_DATA_1] => `CHAT_ENTITY_DATA_1`
+                                    [ENTITY_DATA_2] => `ENTITY_DATA_2`
+                                    [CHAT_ENTITY_DATA_2] => `CHAT_ENTITY_DATA_2`
+                                    [ENTITY_DATA_3] => `ENTITY_DATA_3`
+                                    [CHAT_ENTITY_DATA_3] => `CHAT_ENTITY_DATA_3`
+                                    [CHAT_DATE_CREATE] => `CHAT_DATE_CREATE`
+                                    [USER_EMAIL] => `USER_EMAIL`
+                                    [USER_LAST_ACTIVITY_DATE] => `USER_LAST_ACTIVITY_DATE`
+                                    [USER_IDLE] => `USER_IDLE`
+                                    [USER_MOBILE_LAST_DATE] => `USER_MOBILE_LAST_DATE`
+                                    [USER_DESKTOP_LAST_DATE] => `USER_DESKTOP_LAST_DATE`
+                                    [ORIGINATOR_ID] => `ORIGINATOR_ID`
+                                    [INVITATION_ORIGINATOR_ID] => `INVITATION_ORIGINATOR_ID`
+                                    [b_im_recent] => `b_im_recent`
+                                    [im_model_status_user] => `im_model_status_user`
+                                    [im_model_status] => `im_model_status`
+                                    [EXTERNAL_AUTH_ID] => `EXTERNAL_AUTH_ID`
+                                    [socialnetwork_log_page] => `socialnetwork_log_page`
+                                    [PAGE_LAST_DATE] => `PAGE_LAST_DATE`
+                                    [TRAFFIC_AVG] => `TRAFFIC_AVG`
+                                    [TRAFFIC_CNT] => `TRAFFIC_CNT`
+                                    [TRAFFIC_LAST_DATE] => `TRAFFIC_LAST_DATE`
+                                    [GROUP_CODE] => `GROUP_CODE`
+                                    [PAGE_SIZE] => `PAGE_SIZE`
+                                    [PAGE_NUM] => `PAGE_NUM`
+                                    [b_sonet_log_page] => `b_sonet_log_page`
+                                    [socialnetwork_log_favorites] => `socialnetwork_log_favorites`
+                                    [LOG_ID] => `LOG_ID`
+                                    [b_sonet_log_favorites] => `b_sonet_log_favorites`
+                                    [disk_internals_attached_object] => `disk_internals_attached_object`
+                                    [OBJECT_ID] => `OBJECT_ID`
+                                    [disk_internals_attached_object_object] => `disk_internals_attached_object_object`
+                                    [FILE_ID] => `FILE_ID`
+                                    [disk_internals_attached_object_object_file_content] => `disk_internals_attached_object_object_file_content`
+                                    [b_disk_object] => `b_disk_object`
+                                    [b_file] => `b_file`
+                                    [VERSION_ID] => `VERSION_ID`
+                                    [IS_EDITABLE] => `IS_EDITABLE`
+                                    [ALLOW_EDIT] => `ALLOW_EDIT`
+                                    [ALLOW_AUTO_COMMENT] => `ALLOW_AUTO_COMMENT`
+                                    [CREATE_TIME] => `CREATE_TIME`
+                                    [OBJECTREF_ID] => `OBJECTREF_ID`
+                                    [OBJECTREF_NAME] => `OBJECTREF_NAME`
+                                    [OBJECTREF_TYPE] => `OBJECTREF_TYPE`
+                                    [OBJECTREF_CODE] => `OBJECTREF_CODE`
+                                    [XML_ID] => `XML_ID`
+                                    [OBJECTREF_XML_ID] => `OBJECTREF_XML_ID`
+                                    [STORAGE_ID] => `STORAGE_ID`
+                                    [OBJECTREF_STORAGE_ID] => `OBJECTREF_STORAGE_ID`
+                                    [REAL_OBJECT_ID] => `REAL_OBJECT_ID`
+                                    [OBJECTREF_REAL_OBJECT_ID] => `OBJECTREF_REAL_OBJECT_ID`
+                                    [PARENT_ID] => `PARENT_ID`
+                                    [OBJECTREF_PARENT_ID] => `OBJECTREF_PARENT_ID`
+                                    [CONTENT_PROVIDER] => `CONTENT_PROVIDER`
+                                    [OBJECTREF_CONTENT_PROVIDER] => `OBJECTREF_CONTENT_PROVIDER`
+                                    [OBJECTREF_CREATE_TIME] => `OBJECTREF_CREATE_TIME`
+                                    [UPDATE_TIME] => `UPDATE_TIME`
+                                    [OBJECTREF_UPDATE_TIME] => `OBJECTREF_UPDATE_TIME`
+                                    [SYNC_UPDATE_TIME] => `SYNC_UPDATE_TIME`
+                                    [OBJECTREF_SYNC_UPDATE_TIME] => `OBJECTREF_SYNC_UPDATE_TIME`
+                                    [DELETE_TIME] => `DELETE_TIME`
+                                    [OBJECTREF_DELETE_TIME] => `OBJECTREF_DELETE_TIME`
+                                    [OBJECTREF_CREATED_BY] => `OBJECTREF_CREATED_BY`
+                                    [OBJECTREF_UPDATED_BY] => `OBJECTREF_UPDATED_BY`
+                                    [OBJECTREF_DELETED_BY] => `OBJECTREF_DELETED_BY`
+                                    [GLOBAL_CONTENT_VERSION] => `GLOBAL_CONTENT_VERSION`
+                                    [OBJECTREF_GLOBAL_CONTENT_VERSION] => `OBJECTREF_GLOBAL_CONTENT_VERSION`
+                                    [OBJECTREF_FILE_ID] => `OBJECTREF_FILE_ID`
+                                    [SIZE] => `SIZE`
+                                    [OBJECTREF_SIZE] => `OBJECTREF_SIZE`
+                                    [EXTERNAL_HASH] => `EXTERNAL_HASH`
+                                    [OBJECTREF_EXTERNAL_HASH] => `OBJECTREF_EXTERNAL_HASH`
+                                    [ETAG] => `ETAG`
+                                    [OBJECTREF_ETAG] => `OBJECTREF_ETAG`
+                                    [DELETED_TYPE] => `DELETED_TYPE`
+                                    [OBJECTREF_DELETED_TYPE] => `OBJECTREF_DELETED_TYPE`
+                                    [TYPE_FILE] => `TYPE_FILE`
+                                    [OBJECTREF_TYPE_FILE] => `OBJECTREF_TYPE_FILE`
+                                    [PREVIEW_ID] => `PREVIEW_ID`
+                                    [OBJECTREF_PREVIEW_ID] => `OBJECTREF_PREVIEW_ID`
+                                    [VIEW_ID] => `VIEW_ID`
+                                    [OBJECTREF_VIEW_ID] => `OBJECTREF_VIEW_ID`
+                                    [CONTENT_TYPE] => `CONTENT_TYPE`
+                                    [FILE_CONTENT_TYPE] => `FILE_CONTENT_TYPE`
+                                    [FILE_SIZE] => `FILE_SIZE`
+                                    [b_disk_attached_object] => `b_disk_attached_object`
+                                    [CNT] => `CNT`
+                                    [socialnetwork_user_content_view] => `socialnetwork_user_content_view`
+                                    [CONTENT_ID] => `CONTENT_ID`
+                                    [RATING_TYPE_ID] => `RATING_TYPE_ID`
+                                    [RATING_ENTITY_ID] => `RATING_ENTITY_ID`
+                                    [b_sonet_user_content_view] => `b_sonet_user_content_view`
+                                    [socialnetwork_log_view] => `socialnetwork_log_view`
+                                    [EVENT_ID] => `EVENT_ID`
+                                    [b_sonet_log_view] => `b_sonet_log_view`
+                                    [socialnetwork_user_to_group] => `socialnetwork_user_to_group`
+                                    [socialnetwork_user_to_group_group] => `socialnetwork_user_to_group_group`
+                                    [socialnetwork_user_to_group_group_workgroup_site_group] => `socialnetwork_user_to_group_group_workgroup_site_group`
+                                    [b_sonet_group] => `b_sonet_group`
+                                    [b_sonet_group_site] => `b_sonet_group_site`
+                                    [ROLE] => `ROLE`
+                                    [b_sonet_user2group] => `b_sonet_user2group`
+                                    [socialnetwork_user_to_group_user] => `socialnetwork_user_to_group_user`
+                                    [main_user] => `main_user`
+                                    [LAST_NAME] => `LAST_NAME`
+                                    [SECOND_NAME] => `SECOND_NAME`
+                                    [PERSONAL_PHOTO] => `PERSONAL_PHOTO`
+                                    [] => ``
+                                    [VALUE_INT] => `VALUE_INT`
+                                    [main_user_user_utm_parent_uf_department_tmp983597347] => `main_user_user_utm_parent_uf_department_tmp983597347`
+                                    [VALUE_ID] => `VALUE_ID`
+                                    [main_user_tmp983597347] => `main_user_tmp983597347`
+                                    [FIELD_ID] => `FIELD_ID`
+                                    [b_utm_user] => `b_utm_user`
+                                    [main_user_user_utm_parent_uf_department_tmp1515540891] => `main_user_user_utm_parent_uf_department_tmp1515540891`
+                                    [main_user_tmp1515540891] => `main_user_tmp1515540891`
+                                    [b_option] => `b_option`
+                                    [intranet_ustat_department_hour] => `intranet_ustat_department_hour`
+                                    [HOUR] => `HOUR`
+                                    [TOTAL] => `TOTAL`
+                                    [DEPT_ID] => `DEPT_ID`
+                                    [b_intranet_dstat_hour] => `b_intranet_dstat_hour`
+                                    [intranet_ustat_user_hour] => `intranet_ustat_user_hour`
+                                    [SOCNET] => `SOCNET`
+                                    [LIKES] => `LIKES`
+                                    [IM] => `IM`
+                                    [DISK] => `DISK`
+                                    [MOBILE] => `MOBILE`
+                                    [CRM] => `CRM`
+                                    [INVOLVED] => `INVOLVED`
+                                    [b_intranet_ustat_hour] => `b_intranet_ustat_hour`
+                                    [tmp_hp_g9_ab_yw_j9x] => `tmp_hp_g9_ab_yw_j9x`
+                                    [INVOLVED_COUNT] => `INVOLVED_COUNT`
+                                    [USERS_COUNT] => `USERS_COUNT`
+                                    [tasks_internals_counter_counter] => `tasks_internals_counter_counter`
+                                    [b_tasks_scorer] => `b_tasks_scorer`
+                                    [socialnetwork_user_to_group_workgroup] => `socialnetwork_user_to_group_workgroup`
+                                    [PROJECT] => `PROJECT`
+                                    [tasks_internals_counter_event_event] => `tasks_internals_counter_event_event`
+                                    [HID] => `HID`
+                                    [DATA] => `DATA`
+                                    [TASK_DATA] => `TASK_DATA`
+                                    [CREATED] => `CREATED`
+                                    [PROCESSED] => `PROCESSED`
+                                    [b_tasks_scorer_event] => `b_tasks_scorer_event`
+                                )
+
+                        )
+
+                    [sqlTracker:protected] => 
+                    [trackSql:protected] => 
+                    [version:protected] => 
+                    [versionExpress:protected] => 
+                    [host:protected] => localhost
+                    [database:protected] => site_test
+                    [login:protected] => root
+                    [password:protected] => root
+                    [initCommand:protected] => 
+                    [options:protected] => 2
+                    [nodeId:protected] => 0
+                    [utf8mb4:protected] => Array
+                        (
+                        )
+
+                    [tableColumnsCache:protected] => Array
+                        (
+                            [b_user_option] => Array
+                                (
+                                    [ID] => Bitrix\Main\ORM\Fields\IntegerField Object
+                                        (
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => ID
+                                            [default_value:protected] => 
+                                            [name:protected] => ID
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [USER_ID] => Bitrix\Main\ORM\Fields\IntegerField Object
+                                        (
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => USER_ID
+                                            [default_value:protected] => 
+                                            [name:protected] => USER_ID
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [CATEGORY] => Bitrix\Main\ORM\Fields\StringField Object
+                                        (
+                                            [format:protected] => 
+                                            [size:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => CATEGORY
+                                            [default_value:protected] => 
+                                            [name:protected] => CATEGORY
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [NAME] => Bitrix\Main\ORM\Fields\StringField Object
+                                        (
+                                            [format:protected] => 
+                                            [size:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => NAME
+                                            [default_value:protected] => 
+                                            [name:protected] => NAME
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [VALUE] => Bitrix\Main\ORM\Fields\StringField Object
+                                        (
+                                            [format:protected] => 
+                                            [size:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => VALUE
+                                            [default_value:protected] => 
+                                            [name:protected] => VALUE
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [COMMON] => Bitrix\Main\ORM\Fields\StringField Object
+                                        (
+                                            [format:protected] => 
+                                            [size:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => COMMON
+                                            [default_value:protected] => 
+                                            [name:protected] => COMMON
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                )
+
+                            [b_sonet_log_page] => Array
+                                (
+                                    [USER_ID] => Bitrix\Main\ORM\Fields\IntegerField Object
+                                        (
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => USER_ID
+                                            [default_value:protected] => 
+                                            [name:protected] => USER_ID
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [SITE_ID] => Bitrix\Main\ORM\Fields\StringField Object
+                                        (
+                                            [format:protected] => 
+                                            [size:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => SITE_ID
+                                            [default_value:protected] => 
+                                            [name:protected] => SITE_ID
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [GROUP_CODE] => Bitrix\Main\ORM\Fields\StringField Object
+                                        (
+                                            [format:protected] => 
+                                            [size:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => GROUP_CODE
+                                            [default_value:protected] => 
+                                            [name:protected] => GROUP_CODE
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [PAGE_SIZE] => Bitrix\Main\ORM\Fields\IntegerField Object
+                                        (
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => PAGE_SIZE
+                                            [default_value:protected] => 
+                                            [name:protected] => PAGE_SIZE
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [PAGE_NUM] => Bitrix\Main\ORM\Fields\IntegerField Object
+                                        (
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => PAGE_NUM
+                                            [default_value:protected] => 
+                                            [name:protected] => PAGE_NUM
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [PAGE_LAST_DATE] => Bitrix\Main\ORM\Fields\DatetimeField Object
+                                        (
+                                            [format:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => PAGE_LAST_DATE
+                                            [default_value:protected] => 
+                                            [name:protected] => PAGE_LAST_DATE
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [TRAFFIC_AVG] => Bitrix\Main\ORM\Fields\IntegerField Object
+                                        (
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => TRAFFIC_AVG
+                                            [default_value:protected] => 
+                                            [name:protected] => TRAFFIC_AVG
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [TRAFFIC_CNT] => Bitrix\Main\ORM\Fields\IntegerField Object
+                                        (
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => TRAFFIC_CNT
+                                            [default_value:protected] => 
+                                            [name:protected] => TRAFFIC_CNT
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [TRAFFIC_LAST_DATE] => Bitrix\Main\ORM\Fields\DatetimeField Object
+                                        (
+                                            [format:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => TRAFFIC_LAST_DATE
+                                            [default_value:protected] => 
+                                            [name:protected] => TRAFFIC_LAST_DATE
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                )
+
+                            [b_option] => Array
+                                (
+                                    [MODULE_ID] => Bitrix\Main\ORM\Fields\StringField Object
+                                        (
+                                            [format:protected] => 
+                                            [size:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => MODULE_ID
+                                            [default_value:protected] => 
+                                            [name:protected] => MODULE_ID
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [NAME] => Bitrix\Main\ORM\Fields\StringField Object
+                                        (
+                                            [format:protected] => 
+                                            [size:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => NAME
+                                            [default_value:protected] => 
+                                            [name:protected] => NAME
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [VALUE] => Bitrix\Main\ORM\Fields\StringField Object
+                                        (
+                                            [format:protected] => 
+                                            [size:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => VALUE
+                                            [default_value:protected] => 
+                                            [name:protected] => VALUE
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [DESCRIPTION] => Bitrix\Main\ORM\Fields\StringField Object
+                                        (
+                                            [format:protected] => 
+                                            [size:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => DESCRIPTION
+                                            [default_value:protected] => 
+                                            [name:protected] => DESCRIPTION
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                    [SITE_ID] => Bitrix\Main\ORM\Fields\StringField Object
+                                        (
+                                            [format:protected] => 
+                                            [size:protected] => 
+                                            [is_primary:protected] => 
+                                            [is_unique:protected] => 
+                                            [is_required:protected] => 
+                                            [is_autocomplete:protected] => 
+                                            [is_private:protected] => 
+                                            [is_nullable:protected] => 
+                                            [column_name:protected] => SITE_ID
+                                            [default_value:protected] => 
+                                            [name:protected] => SITE_ID
+                                            [dataType:protected] => 
+                                            [initialParameters:protected] => Array
+                                                (
+                                                )
+
+                                            [title:protected] => 
+                                            [validation:protected] => 
+                                            [validators:protected] => 
+                                            [additionalValidators:protected] => Array
+                                                (
+                                                )
+
+                                            [fetchDataModification:protected] => 
+                                            [fetchDataModifiers:protected] => 
+                                            [additionalFetchDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [saveDataModification:protected] => 
+                                            [saveDataModifiers:protected] => 
+                                            [additionalSaveDataModifiers:protected] => Array
+                                                (
+                                                )
+
+                                            [isSerialized:protected] => 
+                                            [parentField:protected] => 
+                                            [entity:protected] => 
+                                        )
+
+                                )
+
+                        )
+
+                    [lastQueryResult:protected] => mysqli_result Object
+                        (
+                            [current_field] => 0
+                            [field_count] => 1
+                            [lengths] => Array
+                                (
+                                    [0] => 1
+                                )
+
+                            [num_rows] => 1
+                            [type] => 0
+                        )
+
+                    [queryExecutingEnabled:protected] => 1
+                    [disabledQueryExecutingDump:protected] => 
+                    [resource:protected] => mysqli Object
+                        (
+                            [affected_rows] => 1
+                            [client_info] => mysqlnd 7.4.29
+                            [client_version] => 70429
+                            [connect_errno] => 0
+                            [connect_error] => 
+                            [errno] => 0
+                            [error] => 
+                            [error_list] => Array
+                                (
+                                )
+
+                            [field_count] => 31
+                            [host_info] => localhost via TCP/IP
+                            [info] => 
+                            [insert_id] => 0
+                            [server_info] => 5.6.51
+                            [server_version] => 50651
+                            [sqlstate] => 00000
+                            [protocol_version] => 10
+                            [thread_id] => 686
+                            [warning_count] => 0
+                        )
+
+                    [isConnected:protected] => 1
+                    [configuration:protected] => Array
+                        (
+                            [className] => \Bitrix\Main\DB\MysqliConnection
+                            [host] => localhost
+                            [database] => site_test
+                            [login] => root
+                            [password] => root
+                            [options] => 2
+                            [include_after_connected] => W:/domains/localhost/bitrix/php_interface/after_connect_d7.php
+                        )
+
+                )
+
+            [cntQuery] => 0
+            [timeQuery] => 0
+            [arQueryDebug] => Array
+                (
+                )
+
+            [sqlTracker] => 
+        )
+
+    [NavRecordCountChangeDisable] => 
+    [is_filtered] => 
+    [nStartPage] => 0
+    [nEndPage] => 0
+    [resultObject] => 
+)
+
+2022-06-15 15:49:30 Array
+(
+    [ID] => 19
+    [NAME] => 54
+    [DEPTH_LEVEL] => 3
+    [IBLOCK_SECTION_ID] => 2
+)
+
+2022-06-15 15:52:51 2
+2022-07-05 09:13:0311
+2022-07-05 09:14:111
+2022-07-05 09:15:15        1
+2022-07-05 09:16:06        1
+2022-07-05 09:17:04        2
+2022-07-05 09:17:35        19
+2022-07-05 09:19:45        Array
+(
+    [ID] => 1
+    [TIMESTAMP_X] => 24.06.2022 10:16:04
+    [LOGIN] => admin
+    [PASSWORD] => $6$JR3US4iGr8yo2LHc$/fsOI8DP5SQ8p3V/fsH6lNByIkNva5UEsIJmSuYK7v11dYWQwdAlzsSNxJF4ycAJrFBJShzHQ..OwsaSgRYss0
+    [CHECKWORD] => $6$kcyei2X9aZlkNCK2$pRPhVDVrPLBV/6dX8k5W9OnRVXKP46aAsyh3ztsSwDOtk/NsqZc3APZMhnKeNG9Vgp/cMIu6oUFPqLqbXYzh..
+    [ACTIVE] => Y
+    [NAME] => seryy
+    [LAST_NAME] => tru
+    [EMAIL] => truhachev.sergei@yandex.ru
+    [LAST_LOGIN] => 05.07.2022 08:18:01
+    [DATE_REGISTER] => 10.06.2022 09:29:52
+    [LID] => 
+    [PERSONAL_PROFESSION] => 
+    [PERSONAL_WWW] => 
+    [PERSONAL_ICQ] => 
+    [PERSONAL_GENDER] => 
+    [PERSONAL_BIRTHDATE] => 
+    [PERSONAL_PHOTO] => 103
+    [PERSONAL_PHONE] => 
+    [PERSONAL_FAX] => 
+    [PERSONAL_MOBILE] => 
+    [PERSONAL_PAGER] => 
+    [PERSONAL_STREET] => 
+    [PERSONAL_MAILBOX] => 
+    [PERSONAL_CITY] => 
+    [PERSONAL_STATE] => 
+    [PERSONAL_ZIP] => 
+    [PERSONAL_COUNTRY] => 0
+    [PERSONAL_NOTES] => 
+    [WORK_COMPANY] => 
+    [WORK_DEPARTMENT] => 
+    [WORK_POSITION] => 
+    [WORK_WWW] => 
+    [WORK_PHONE] => 
+    [WORK_FAX] => 
+    [WORK_PAGER] => 
+    [WORK_STREET] => 
+    [WORK_MAILBOX] => 
+    [WORK_CITY] => 
+    [WORK_STATE] => 
+    [WORK_ZIP] => 
+    [WORK_COUNTRY] => 
+    [WORK_PROFILE] => 
+    [WORK_LOGO] => 
+    [WORK_NOTES] => 
+    [ADMIN_NOTES] => 
+    [STORED_HASH] => 
+    [XML_ID] => 
+    [PERSONAL_BIRTHDAY] => 14.06.2022
+    [EXTERNAL_AUTH_ID] => 
+    [CHECKWORD_TIME] => 2022-06-10 09:38:15
+    [SECOND_NAME] => 
+    [CONFIRM_CODE] => 
+    [LOGIN_ATTEMPTS] => 0
+    [LAST_ACTIVITY_DATE] => 2022-07-05 09:19:44
+    [AUTO_TIME_ZONE] => 
+    [TIME_ZONE] => 
+    [TIME_ZONE_OFFSET] => 0
+    [TITLE] => 
+    [BX_USER_ID] => 
+    [LANGUAGE_ID] => 
+    [BLOCKED] => N
+    [PASSWORD_EXPIRED] => N
+    [IS_ONLINE] => Y
+    [UF_DEPARTMENT] => Array
+        (
+            [0] => 19
+        )
+
+    [UF_PHONE_INNER] => 
+    [UF_USER_CRM_ENTITY] => 
+    [UF_IM_SEARCH] => 
+    [UF_CONNECTOR_MD5] => 
+    [UF_1C] => 
+    [UF_INN] => 
+    [UF_DISTRICT] => 
+    [UF_SKYPE] => 
+    [UF_SKYPE_LINK] => 
+    [UF_ZOOM] => 
+    [UF_TWITTER] => 
+    [UF_FACEBOOK] => 
+    [UF_LINKEDIN] => 
+    [UF_XING] => 
+    [UF_WEB_SITES] => 
+    [UF_SKILLS] => 
+    [UF_INTERESTS] => 
+    [UF_EMPLOYMENT_DATE] => 
+    [UF_WORK_BINDING] => 
+    [UF_BXDAVEX_CALSYNC] => 
+    [UF_TIMEMAN] => 
+    [UF_TM_MAX_START] => 
+    [UF_TM_MIN_FINISH] => 
+    [UF_TM_MIN_DURATION] => 
+    [UF_TM_REPORT_REQ] => 
+    [UF_TM_REPORT_TPL] => 
+    [UF_TM_FREE] => 
+    [UF_TM_TIME] => 
+    [UF_TM_DAY] => 
+    [UF_TM_REPORT_DATE] => 
+    [UF_REPORT_PERIOD] => 
+    [UF_DELAY_TIME] => 
+    [UF_LAST_REPORT_DATE] => 05.06.2022
+    [UF_SETTING_DATE] => 
+    [UF_TM_ALLOWED_DELTA] => 
+)
+        19        Array
+(
+    [ID] => 19
+    [NAME] => 54
+    [DEPTH_LEVEL] => 3
+    [IBLOCK_SECTION_ID] => 2
+)
+
+2022-07-05 09:29:05        Array
+(
+    [ID] => 1
+    [TIMESTAMP_X] => 24.06.2022 10:16:04
+    [LOGIN] => admin
+    [PASSWORD] => $6$JR3US4iGr8yo2LHc$/fsOI8DP5SQ8p3V/fsH6lNByIkNva5UEsIJmSuYK7v11dYWQwdAlzsSNxJF4ycAJrFBJShzHQ..OwsaSgRYss0
+    [CHECKWORD] => $6$kcyei2X9aZlkNCK2$pRPhVDVrPLBV/6dX8k5W9OnRVXKP46aAsyh3ztsSwDOtk/NsqZc3APZMhnKeNG9Vgp/cMIu6oUFPqLqbXYzh..
+    [ACTIVE] => Y
+    [NAME] => seryy
+    [LAST_NAME] => tru
+    [EMAIL] => truhachev.sergei@yandex.ru
+    [LAST_LOGIN] => 05.07.2022 08:18:01
+    [DATE_REGISTER] => 10.06.2022 09:29:52
+    [LID] => 
+    [PERSONAL_PROFESSION] => 
+    [PERSONAL_WWW] => 
+    [PERSONAL_ICQ] => 
+    [PERSONAL_GENDER] => 
+    [PERSONAL_BIRTHDATE] => 
+    [PERSONAL_PHOTO] => 103
+    [PERSONAL_PHONE] => 
+    [PERSONAL_FAX] => 
+    [PERSONAL_MOBILE] => 
+    [PERSONAL_PAGER] => 
+    [PERSONAL_STREET] => 
+    [PERSONAL_MAILBOX] => 
+    [PERSONAL_CITY] => 
+    [PERSONAL_STATE] => 
+    [PERSONAL_ZIP] => 
+    [PERSONAL_COUNTRY] => 0
+    [PERSONAL_NOTES] => 
+    [WORK_COMPANY] => 
+    [WORK_DEPARTMENT] => 
+    [WORK_POSITION] => 
+    [WORK_WWW] => 
+    [WORK_PHONE] => 
+    [WORK_FAX] => 
+    [WORK_PAGER] => 
+    [WORK_STREET] => 
+    [WORK_MAILBOX] => 
+    [WORK_CITY] => 
+    [WORK_STATE] => 
+    [WORK_ZIP] => 
+    [WORK_COUNTRY] => 
+    [WORK_PROFILE] => 
+    [WORK_LOGO] => 
+    [WORK_NOTES] => 
+    [ADMIN_NOTES] => 
+    [STORED_HASH] => 
+    [XML_ID] => 
+    [PERSONAL_BIRTHDAY] => 14.06.2022
+    [EXTERNAL_AUTH_ID] => 
+    [CHECKWORD_TIME] => 2022-06-10 09:38:15
+    [SECOND_NAME] => 
+    [CONFIRM_CODE] => 
+    [LOGIN_ATTEMPTS] => 0
+    [LAST_ACTIVITY_DATE] => 2022-07-05 09:29:04
+    [AUTO_TIME_ZONE] => 
+    [TIME_ZONE] => 
+    [TIME_ZONE_OFFSET] => 0
+    [TITLE] => 
+    [BX_USER_ID] => 
+    [LANGUAGE_ID] => 
+    [BLOCKED] => N
+    [PASSWORD_EXPIRED] => N
+    [IS_ONLINE] => Y
+    [UF_DEPARTMENT] => Array
+        (
+            [0] => 19
+        )
+
+    [UF_PHONE_INNER] => 
+    [UF_USER_CRM_ENTITY] => 
+    [UF_IM_SEARCH] => 
+    [UF_CONNECTOR_MD5] => 
+    [UF_1C] => 
+    [UF_INN] => 
+    [UF_DISTRICT] => 
+    [UF_SKYPE] => 
+    [UF_SKYPE_LINK] => 
+    [UF_ZOOM] => 
+    [UF_TWITTER] => 
+    [UF_FACEBOOK] => 
+    [UF_LINKEDIN] => 
+    [UF_XING] => 
+    [UF_WEB_SITES] => 
+    [UF_SKILLS] => 
+    [UF_INTERESTS] => 
+    [UF_EMPLOYMENT_DATE] => 
+    [UF_WORK_BINDING] => 
+    [UF_BXDAVEX_CALSYNC] => 
+    [UF_TIMEMAN] => 
+    [UF_TM_MAX_START] => 
+    [UF_TM_MIN_FINISH] => 
+    [UF_TM_MIN_DURATION] => 
+    [UF_TM_REPORT_REQ] => 
+    [UF_TM_REPORT_TPL] => 
+    [UF_TM_FREE] => 
+    [UF_TM_TIME] => 
+    [UF_TM_DAY] => 
+    [UF_TM_REPORT_DATE] => 
+    [UF_REPORT_PERIOD] => 
+    [UF_DELAY_TIME] => 
+    [UF_LAST_REPORT_DATE] => 05.06.2022
+    [UF_SETTING_DATE] => 
+    [UF_TM_ALLOWED_DELTA] => 
+)
+        19        Array
+(
+    [ID] => 19
+    [NAME] => 54
+    [DEPTH_LEVEL] => 3
+    [IBLOCK_SECTION_ID] => 2
+)
+        Array
+(
+    [ID] => 2
+    [NAME] => Бухгалтерия
+    [DEPTH_LEVEL] => 2
+    [IBLOCK_SECTION_ID] => 1
+)
+
+2022-07-05 09:32:27        Array
+(
+    [ID] => 1
+    [TIMESTAMP_X] => 05.07.2022 09:32:07
+    [LOGIN] => admin
+    [PASSWORD] => $6$JR3US4iGr8yo2LHc$/fsOI8DP5SQ8p3V/fsH6lNByIkNva5UEsIJmSuYK7v11dYWQwdAlzsSNxJF4ycAJrFBJShzHQ..OwsaSgRYss0
+    [CHECKWORD] => $6$kcyei2X9aZlkNCK2$pRPhVDVrPLBV/6dX8k5W9OnRVXKP46aAsyh3ztsSwDOtk/NsqZc3APZMhnKeNG9Vgp/cMIu6oUFPqLqbXYzh..
+    [ACTIVE] => Y
+    [NAME] => seryy
+    [LAST_NAME] => tru
+    [EMAIL] => truhachev.sergei@yandex.ru
+    [LAST_LOGIN] => 05.07.2022 08:18:01
+    [DATE_REGISTER] => 10.06.2022 09:29:52
+    [LID] => 
+    [PERSONAL_PROFESSION] => 
+    [PERSONAL_WWW] => 
+    [PERSONAL_ICQ] => 
+    [PERSONAL_GENDER] => 
+    [PERSONAL_BIRTHDATE] => 
+    [PERSONAL_PHOTO] => 103
+    [PERSONAL_PHONE] => 
+    [PERSONAL_FAX] => 
+    [PERSONAL_MOBILE] => 
+    [PERSONAL_PAGER] => 
+    [PERSONAL_STREET] => 
+    [PERSONAL_MAILBOX] => 
+    [PERSONAL_CITY] => 
+    [PERSONAL_STATE] => 
+    [PERSONAL_ZIP] => 
+    [PERSONAL_COUNTRY] => 0
+    [PERSONAL_NOTES] => 
+    [WORK_COMPANY] => 
+    [WORK_DEPARTMENT] => 
+    [WORK_POSITION] => 
+    [WORK_WWW] => 
+    [WORK_PHONE] => 
+    [WORK_FAX] => 
+    [WORK_PAGER] => 
+    [WORK_STREET] => 
+    [WORK_MAILBOX] => 
+    [WORK_CITY] => 
+    [WORK_STATE] => 
+    [WORK_ZIP] => 
+    [WORK_COUNTRY] => 
+    [WORK_PROFILE] => 
+    [WORK_LOGO] => 
+    [WORK_NOTES] => 
+    [ADMIN_NOTES] => 
+    [STORED_HASH] => 
+    [XML_ID] => 
+    [PERSONAL_BIRTHDAY] => 14.06.2022
+    [EXTERNAL_AUTH_ID] => 
+    [CHECKWORD_TIME] => 2022-06-10 09:38:15
+    [SECOND_NAME] => 
+    [CONFIRM_CODE] => 
+    [LOGIN_ATTEMPTS] => 0
+    [LAST_ACTIVITY_DATE] => 2022-07-05 09:32:17
+    [AUTO_TIME_ZONE] => 
+    [TIME_ZONE] => 
+    [TIME_ZONE_OFFSET] => 0
+    [TITLE] => 
+    [BX_USER_ID] => 
+    [LANGUAGE_ID] => 
+    [BLOCKED] => N
+    [PASSWORD_EXPIRED] => N
+    [IS_ONLINE] => Y
+    [UF_DEPARTMENT] => Array
+        (
+            [0] => 26
+        )
+
+    [UF_PHONE_INNER] => 
+    [UF_USER_CRM_ENTITY] => 
+    [UF_IM_SEARCH] => 
+    [UF_CONNECTOR_MD5] => 
+    [UF_1C] => 
+    [UF_INN] => 
+    [UF_DISTRICT] => 
+    [UF_SKYPE] => 
+    [UF_SKYPE_LINK] => 
+    [UF_ZOOM] => 
+    [UF_TWITTER] => 
+    [UF_FACEBOOK] => 
+    [UF_LINKEDIN] => 
+    [UF_XING] => 
+    [UF_WEB_SITES] => 
+    [UF_SKILLS] => 
+    [UF_INTERESTS] => 
+    [UF_EMPLOYMENT_DATE] => 
+    [UF_WORK_BINDING] => 
+    [UF_BXDAVEX_CALSYNC] => 
+    [UF_TIMEMAN] => 
+    [UF_TM_MAX_START] => 
+    [UF_TM_MIN_FINISH] => 
+    [UF_TM_MIN_DURATION] => 
+    [UF_TM_REPORT_REQ] => 
+    [UF_TM_REPORT_TPL] => 
+    [UF_TM_FREE] => 
+    [UF_TM_TIME] => 
+    [UF_TM_DAY] => 
+    [UF_TM_REPORT_DATE] => 
+    [UF_REPORT_PERIOD] => 
+    [UF_DELAY_TIME] => 
+    [UF_LAST_REPORT_DATE] => 05.06.2022
+    [UF_SETTING_DATE] => 
+    [UF_TM_ALLOWED_DELTA] => 
+)
+        26        Array
+(
+    [ID] => 26
+    [NAME] => ак
+    [DEPTH_LEVEL] => 4
+    [IBLOCK_SECTION_ID] => 24
+)
+        Array
+(
+    [ID] => 24
+    [NAME] => 54
+    [DEPTH_LEVEL] => 3
+    [IBLOCK_SECTION_ID] => 3
+)
+
+2022-07-05 09:37:09        Array
+(
+    [ID] => 1
+    [TIMESTAMP_X] => 05.07.2022 09:32:07
+    [LOGIN] => admin
+    [PASSWORD] => $6$JR3US4iGr8yo2LHc$/fsOI8DP5SQ8p3V/fsH6lNByIkNva5UEsIJmSuYK7v11dYWQwdAlzsSNxJF4ycAJrFBJShzHQ..OwsaSgRYss0
+    [CHECKWORD] => $6$kcyei2X9aZlkNCK2$pRPhVDVrPLBV/6dX8k5W9OnRVXKP46aAsyh3ztsSwDOtk/NsqZc3APZMhnKeNG9Vgp/cMIu6oUFPqLqbXYzh..
+    [ACTIVE] => Y
+    [NAME] => seryy
+    [LAST_NAME] => tru
+    [EMAIL] => truhachev.sergei@yandex.ru
+    [LAST_LOGIN] => 05.07.2022 08:18:01
+    [DATE_REGISTER] => 10.06.2022 09:29:52
+    [LID] => 
+    [PERSONAL_PROFESSION] => 
+    [PERSONAL_WWW] => 
+    [PERSONAL_ICQ] => 
+    [PERSONAL_GENDER] => 
+    [PERSONAL_BIRTHDATE] => 
+    [PERSONAL_PHOTO] => 103
+    [PERSONAL_PHONE] => 
+    [PERSONAL_FAX] => 
+    [PERSONAL_MOBILE] => 
+    [PERSONAL_PAGER] => 
+    [PERSONAL_STREET] => 
+    [PERSONAL_MAILBOX] => 
+    [PERSONAL_CITY] => 
+    [PERSONAL_STATE] => 
+    [PERSONAL_ZIP] => 
+    [PERSONAL_COUNTRY] => 0
+    [PERSONAL_NOTES] => 
+    [WORK_COMPANY] => 
+    [WORK_DEPARTMENT] => 
+    [WORK_POSITION] => 
+    [WORK_WWW] => 
+    [WORK_PHONE] => 
+    [WORK_FAX] => 
+    [WORK_PAGER] => 
+    [WORK_STREET] => 
+    [WORK_MAILBOX] => 
+    [WORK_CITY] => 
+    [WORK_STATE] => 
+    [WORK_ZIP] => 
+    [WORK_COUNTRY] => 
+    [WORK_PROFILE] => 
+    [WORK_LOGO] => 
+    [WORK_NOTES] => 
+    [ADMIN_NOTES] => 
+    [STORED_HASH] => 
+    [XML_ID] => 
+    [PERSONAL_BIRTHDAY] => 14.06.2022
+    [EXTERNAL_AUTH_ID] => 
+    [CHECKWORD_TIME] => 2022-06-10 09:38:15
+    [SECOND_NAME] => 
+    [CONFIRM_CODE] => 
+    [LOGIN_ATTEMPTS] => 0
+    [LAST_ACTIVITY_DATE] => 2022-07-05 09:37:08
+    [AUTO_TIME_ZONE] => 
+    [TIME_ZONE] => 
+    [TIME_ZONE_OFFSET] => 0
+    [TITLE] => 
+    [BX_USER_ID] => 
+    [LANGUAGE_ID] => 
+    [BLOCKED] => N
+    [PASSWORD_EXPIRED] => N
+    [IS_ONLINE] => Y
+    [UF_DEPARTMENT] => Array
+        (
+            [0] => 26
+        )
+
+    [UF_PHONE_INNER] => 
+    [UF_USER_CRM_ENTITY] => 
+    [UF_IM_SEARCH] => 
+    [UF_CONNECTOR_MD5] => 
+    [UF_1C] => 
+    [UF_INN] => 
+    [UF_DISTRICT] => 
+    [UF_SKYPE] => 
+    [UF_SKYPE_LINK] => 
+    [UF_ZOOM] => 
+    [UF_TWITTER] => 
+    [UF_FACEBOOK] => 
+    [UF_LINKEDIN] => 
+    [UF_XING] => 
+    [UF_WEB_SITES] => 
+    [UF_SKILLS] => 
+    [UF_INTERESTS] => 
+    [UF_EMPLOYMENT_DATE] => 
+    [UF_WORK_BINDING] => 
+    [UF_BXDAVEX_CALSYNC] => 
+    [UF_TIMEMAN] => 
+    [UF_TM_MAX_START] => 
+    [UF_TM_MIN_FINISH] => 
+    [UF_TM_MIN_DURATION] => 
+    [UF_TM_REPORT_REQ] => 
+    [UF_TM_REPORT_TPL] => 
+    [UF_TM_FREE] => 
+    [UF_TM_TIME] => 
+    [UF_TM_DAY] => 
+    [UF_TM_REPORT_DATE] => 
+    [UF_REPORT_PERIOD] => 
+    [UF_DELAY_TIME] => 
+    [UF_LAST_REPORT_DATE] => 05.06.2022
+    [UF_SETTING_DATE] => 
+    [UF_TM_ALLOWED_DELTA] => 
+)
+        26        Array
+(
+    [ID] => 26
+    [NAME] => ак
+    [DEPTH_LEVEL] => 4
+    [IBLOCK_SECTION_ID] => 24
+)
+        
+2022-07-05 09:38:09        Array
+(
+    [ID] => 1
+    [TIMESTAMP_X] => 05.07.2022 09:32:07
+    [LOGIN] => admin
+    [PASSWORD] => $6$JR3US4iGr8yo2LHc$/fsOI8DP5SQ8p3V/fsH6lNByIkNva5UEsIJmSuYK7v11dYWQwdAlzsSNxJF4ycAJrFBJShzHQ..OwsaSgRYss0
+    [CHECKWORD] => $6$kcyei2X9aZlkNCK2$pRPhVDVrPLBV/6dX8k5W9OnRVXKP46aAsyh3ztsSwDOtk/NsqZc3APZMhnKeNG9Vgp/cMIu6oUFPqLqbXYzh..
+    [ACTIVE] => Y
+    [NAME] => seryy
+    [LAST_NAME] => tru
+    [EMAIL] => truhachev.sergei@yandex.ru
+    [LAST_LOGIN] => 05.07.2022 08:18:01
+    [DATE_REGISTER] => 10.06.2022 09:29:52
+    [LID] => 
+    [PERSONAL_PROFESSION] => 
+    [PERSONAL_WWW] => 
+    [PERSONAL_ICQ] => 
+    [PERSONAL_GENDER] => 
+    [PERSONAL_BIRTHDATE] => 
+    [PERSONAL_PHOTO] => 103
+    [PERSONAL_PHONE] => 
+    [PERSONAL_FAX] => 
+    [PERSONAL_MOBILE] => 
+    [PERSONAL_PAGER] => 
+    [PERSONAL_STREET] => 
+    [PERSONAL_MAILBOX] => 
+    [PERSONAL_CITY] => 
+    [PERSONAL_STATE] => 
+    [PERSONAL_ZIP] => 
+    [PERSONAL_COUNTRY] => 0
+    [PERSONAL_NOTES] => 
+    [WORK_COMPANY] => 
+    [WORK_DEPARTMENT] => 
+    [WORK_POSITION] => 
+    [WORK_WWW] => 
+    [WORK_PHONE] => 
+    [WORK_FAX] => 
+    [WORK_PAGER] => 
+    [WORK_STREET] => 
+    [WORK_MAILBOX] => 
+    [WORK_CITY] => 
+    [WORK_STATE] => 
+    [WORK_ZIP] => 
+    [WORK_COUNTRY] => 
+    [WORK_PROFILE] => 
+    [WORK_LOGO] => 
+    [WORK_NOTES] => 
+    [ADMIN_NOTES] => 
+    [STORED_HASH] => 
+    [XML_ID] => 
+    [PERSONAL_BIRTHDAY] => 14.06.2022
+    [EXTERNAL_AUTH_ID] => 
+    [CHECKWORD_TIME] => 2022-06-10 09:38:15
+    [SECOND_NAME] => 
+    [CONFIRM_CODE] => 
+    [LOGIN_ATTEMPTS] => 0
+    [LAST_ACTIVITY_DATE] => 2022-07-05 09:38:08
+    [AUTO_TIME_ZONE] => 
+    [TIME_ZONE] => 
+    [TIME_ZONE_OFFSET] => 0
+    [TITLE] => 
+    [BX_USER_ID] => 
+    [LANGUAGE_ID] => 
+    [BLOCKED] => N
+    [PASSWORD_EXPIRED] => N
+    [IS_ONLINE] => Y
+    [UF_DEPARTMENT] => Array
+        (
+            [0] => 26
+        )
+
+    [UF_PHONE_INNER] => 
+    [UF_USER_CRM_ENTITY] => 
+    [UF_IM_SEARCH] => 
+    [UF_CONNECTOR_MD5] => 
+    [UF_1C] => 
+    [UF_INN] => 
+    [UF_DISTRICT] => 
+    [UF_SKYPE] => 
+    [UF_SKYPE_LINK] => 
+    [UF_ZOOM] => 
+    [UF_TWITTER] => 
+    [UF_FACEBOOK] => 
+    [UF_LINKEDIN] => 
+    [UF_XING] => 
+    [UF_WEB_SITES] => 
+    [UF_SKILLS] => 
+    [UF_INTERESTS] => 
+    [UF_EMPLOYMENT_DATE] => 
+    [UF_WORK_BINDING] => 
+    [UF_BXDAVEX_CALSYNC] => 
+    [UF_TIMEMAN] => 
+    [UF_TM_MAX_START] => 
+    [UF_TM_MIN_FINISH] => 
+    [UF_TM_MIN_DURATION] => 
+    [UF_TM_REPORT_REQ] => 
+    [UF_TM_REPORT_TPL] => 
+    [UF_TM_FREE] => 
+    [UF_TM_TIME] => 
+    [UF_TM_DAY] => 
+    [UF_TM_REPORT_DATE] => 
+    [UF_REPORT_PERIOD] => 
+    [UF_DELAY_TIME] => 
+    [UF_LAST_REPORT_DATE] => 05.06.2022
+    [UF_SETTING_DATE] => 
+    [UF_TM_ALLOWED_DELTA] => 
+)
+        26        Array
+(
+    [ID] => 26
+    [NAME] => ак
+    [DEPTH_LEVEL] => 4
+    [IBLOCK_SECTION_ID] => 24
+)
+        
+2022-07-05 09:38:52        Array
+(
+    [ID] => 1
+    [TIMESTAMP_X] => 05.07.2022 09:32:07
+    [LOGIN] => admin
+    [PASSWORD] => $6$JR3US4iGr8yo2LHc$/fsOI8DP5SQ8p3V/fsH6lNByIkNva5UEsIJmSuYK7v11dYWQwdAlzsSNxJF4ycAJrFBJShzHQ..OwsaSgRYss0
+    [CHECKWORD] => $6$kcyei2X9aZlkNCK2$pRPhVDVrPLBV/6dX8k5W9OnRVXKP46aAsyh3ztsSwDOtk/NsqZc3APZMhnKeNG9Vgp/cMIu6oUFPqLqbXYzh..
+    [ACTIVE] => Y
+    [NAME] => seryy
+    [LAST_NAME] => tru
+    [EMAIL] => truhachev.sergei@yandex.ru
+    [LAST_LOGIN] => 05.07.2022 08:18:01
+    [DATE_REGISTER] => 10.06.2022 09:29:52
+    [LID] => 
+    [PERSONAL_PROFESSION] => 
+    [PERSONAL_WWW] => 
+    [PERSONAL_ICQ] => 
+    [PERSONAL_GENDER] => 
+    [PERSONAL_BIRTHDATE] => 
+    [PERSONAL_PHOTO] => 103
+    [PERSONAL_PHONE] => 
+    [PERSONAL_FAX] => 
+    [PERSONAL_MOBILE] => 
+    [PERSONAL_PAGER] => 
+    [PERSONAL_STREET] => 
+    [PERSONAL_MAILBOX] => 
+    [PERSONAL_CITY] => 
+    [PERSONAL_STATE] => 
+    [PERSONAL_ZIP] => 
+    [PERSONAL_COUNTRY] => 0
+    [PERSONAL_NOTES] => 
+    [WORK_COMPANY] => 
+    [WORK_DEPARTMENT] => 
+    [WORK_POSITION] => 
+    [WORK_WWW] => 
+    [WORK_PHONE] => 
+    [WORK_FAX] => 
+    [WORK_PAGER] => 
+    [WORK_STREET] => 
+    [WORK_MAILBOX] => 
+    [WORK_CITY] => 
+    [WORK_STATE] => 
+    [WORK_ZIP] => 
+    [WORK_COUNTRY] => 
+    [WORK_PROFILE] => 
+    [WORK_LOGO] => 
+    [WORK_NOTES] => 
+    [ADMIN_NOTES] => 
+    [STORED_HASH] => 
+    [XML_ID] => 
+    [PERSONAL_BIRTHDAY] => 14.06.2022
+    [EXTERNAL_AUTH_ID] => 
+    [CHECKWORD_TIME] => 2022-06-10 09:38:15
+    [SECOND_NAME] => 
+    [CONFIRM_CODE] => 
+    [LOGIN_ATTEMPTS] => 0
+    [LAST_ACTIVITY_DATE] => 2022-07-05 09:38:11
+    [AUTO_TIME_ZONE] => 
+    [TIME_ZONE] => 
+    [TIME_ZONE_OFFSET] => 0
+    [TITLE] => 
+    [BX_USER_ID] => 
+    [LANGUAGE_ID] => 
+    [BLOCKED] => N
+    [PASSWORD_EXPIRED] => N
+    [IS_ONLINE] => Y
+    [UF_DEPARTMENT] => Array
+        (
+            [0] => 26
+        )
+
+    [UF_PHONE_INNER] => 
+    [UF_USER_CRM_ENTITY] => 
+    [UF_IM_SEARCH] => 
+    [UF_CONNECTOR_MD5] => 
+    [UF_1C] => 
+    [UF_INN] => 
+    [UF_DISTRICT] => 
+    [UF_SKYPE] => 
+    [UF_SKYPE_LINK] => 
+    [UF_ZOOM] => 
+    [UF_TWITTER] => 
+    [UF_FACEBOOK] => 
+    [UF_LINKEDIN] => 
+    [UF_XING] => 
+    [UF_WEB_SITES] => 
+    [UF_SKILLS] => 
+    [UF_INTERESTS] => 
+    [UF_EMPLOYMENT_DATE] => 
+    [UF_WORK_BINDING] => 
+    [UF_BXDAVEX_CALSYNC] => 
+    [UF_TIMEMAN] => 
+    [UF_TM_MAX_START] => 
+    [UF_TM_MIN_FINISH] => 
+    [UF_TM_MIN_DURATION] => 
+    [UF_TM_REPORT_REQ] => 
+    [UF_TM_REPORT_TPL] => 
+    [UF_TM_FREE] => 
+    [UF_TM_TIME] => 
+    [UF_TM_DAY] => 
+    [UF_TM_REPORT_DATE] => 
+    [UF_REPORT_PERIOD] => 
+    [UF_DELAY_TIME] => 
+    [UF_LAST_REPORT_DATE] => 05.06.2022
+    [UF_SETTING_DATE] => 
+    [UF_TM_ALLOWED_DELTA] => 
+)
+        26        Array
+(
+    [ID] => 26
+    [NAME] => ак
+    [DEPTH_LEVEL] => 4
+    [IBLOCK_SECTION_ID] => 24
+)
+        
+2022-07-05 09:40:21        26        Array
+(
+    [ID] => 26
+    [NAME] => ак
+    [DEPTH_LEVEL] => 4
+    [IBLOCK_SECTION_ID] => 24
+)
+
+2022-07-05 09:42:31        26        Array
+(
+    [ID] => 3
+    [NAME] => Отдел продаж
+    [DEPTH_LEVEL] => 2
+    [IBLOCK_SECTION_ID] => 1
+)
+
+2022-07-05 09:46:49        2    26        Array
+(
+    [ID] => 3
+    [NAME] => Отдел продаж
+    [DEPTH_LEVEL] => 2
+    [IBLOCK_SECTION_ID] => 1
+)
+
+2022-07-05 09:48:23        2    26        Array
+(
+    [ID] => 3
+    [NAME] => Отдел продаж
+    [DEPTH_LEVEL] => 2
+    [IBLOCK_SECTION_ID] => 1
+)
+
+2022-07-05 09:48:46        2    26        Array
+(
+    [ID] => 3
+    [NAME] => Отдел продаж
+    [DEPTH_LEVEL] => 2
+    [IBLOCK_SECTION_ID] => 1
+)
+
+2022-07-05 09:51:10        1    26        Array
+(
+    [ID] => 24
+    [NAME] => 54
+    [DEPTH_LEVEL] => 3
+    [IBLOCK_SECTION_ID] => 3
+)
+
+2022-07-05 09:52:38        0    26        Array
+(
+    [ID] => 26
+    [NAME] => ак
+    [DEPTH_LEVEL] => 4
+    [IBLOCK_SECTION_ID] => 24
+)
+
+2022-07-05 09:53:21        1    26        Array
+(
+    [ID] => 24
+    [NAME] => 54
+    [DEPTH_LEVEL] => 3
+    [IBLOCK_SECTION_ID] => 3
+)
+
+2022-07-05 09:55:43        0    26        Array
+(
+    [ID] => 26
+    [NAME] => ак
+    [DEPTH_LEVEL] => 4
+    [IBLOCK_SECTION_ID] => 24
+)
+
+2022-07-05 09:56:30        0    24        Array
+(
+    [ID] => 24
+    [NAME] => 54
+    [DEPTH_LEVEL] => 3
+    [IBLOCK_SECTION_ID] => 3
+)
+
+2022-07-05 09:56:47        0    3        Array
+(
+    [ID] => 3
+    [NAME] => Отдел продаж
+    [DEPTH_LEVEL] => 2
+    [IBLOCK_SECTION_ID] => 1
+)
+
+2022-07-05 09:57:02        0    1        Array
+(
+    [ID] => 1
+    [NAME] => Моя компания
+    [DEPTH_LEVEL] => 1
+    [IBLOCK_SECTION_ID] => 
+)
+
+2022-07-05 11:18:01            1        Array
+(
+    [ID] => 1
+    [NAME] => Моя компания
+    [DEPTH_LEVEL] => 1
+    [IBLOCK_SECTION_ID] => 
+)
+

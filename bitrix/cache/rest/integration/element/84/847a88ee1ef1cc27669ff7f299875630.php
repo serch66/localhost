@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001655291261';
+$dateexpire = '001655377661';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:12:{s:12:"ELEMENT_CODE";s:11:"application";s:18:"TITLE.MESSAGE_CODE";s:36:"REST_INTEGRATION_PATTERNS_1003_TITLE";s:6:"ACTIVE";s:1:"Y";s:24:"DESCRIPTION.MESSAGE_CODE";s:42:"REST_INTEGRATION_PATTERNS_1003_DESCRIPTION";s:29:"DESCRIPTION_FULL.MESSAGE_CODE";s:47:"REST_INTEGRATION_PATTERNS_1003_DESCRIPTION_FULL";s:12:"SECTION_CODE";s:8:"standard";s:10:"ICON_CLASS";s:32:"rest-integration-tile-img-hidden";s:7:"OPTIONS";a:8:{s:12:"QUERY_NEEDED";s:1:"D";s:15:"OUTGOING_NEEDED";s:1:"D";s:13:"WIDGET_NEEDED";s:1:"D";s:10:"BOT_NEEDED";s:1:"D";s:18:"APPLICATION_NEEDED";s:1:"Y";s:5:"SCOPE";a:1:{i:0;s:3:"crm";}s:33:"APPLICATION_DOWNLOAD_EXAMPLE_TYPE";s:9:"local_app";s:17:"DESCRIPTION_SCOPE";a:2:{s:24:"DESCRIPTION.MESSAGE_CODE";s:60:"REST_INTEGRATION_PATTERNS_1003_DESCRIPTION_SCOPE_DESCRIPTION";s:11:"DESCRIPTION";s:109:"Выберите доступный функционал Битрикс24 данному приложению";}}s:5:"TITLE";s:39:"Локальное приложение";s:11:"DESCRIPTION";s:144:"Создайте приложение самостоятельно или закажите разработку у наших партнеров";s:16:"DESCRIPTION_FULL";s:209:"Создайте приложение самостоятельно или <a target="_blank" href="https://www.bitrix24.ru/partners/" >закажите разработку у наших партнеров</a>";s:4:"CODE";s:11:"application";}}';
+return true;
+?>

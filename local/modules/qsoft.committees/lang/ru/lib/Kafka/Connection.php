@@ -1,0 +1,7 @@
+<?php
+
+$MESS["QSOFT_COMMITTEES_KAFKA_MESSAGE_RECEIVED"] = "Получено событие: #MESSAGE_TEXT#. Offset: #MESSAGE_OFFSET#";
+$MESS["QSOFT_COMMITTEES_KAFKA_MESSAGE_UPLOADED"] = "Событие успешно занесено в календарь";
+$MESS["QSOFT_COMMITTEES_KAFKA_NO_NEW_MESSAGES"] = "Новых сообщений нет.";
+$MESS["QSOFT_COMMITTEES_KAFKA_TIMED_OUT"] = "Истекло время ожидания.";
+$MESS["QSOFT_COMMITTEES_KAFKA_ERROR_CODE"] = "#ERROR_MESSAGE#. Код ошибки: #ERROR_CODE#";

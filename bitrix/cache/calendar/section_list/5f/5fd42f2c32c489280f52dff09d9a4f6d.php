@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001654842878';
+$dateexpire = '001657434878';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{s:8:"arResult";a:1:{i:0;a:26:{s:2:"ID";s:1:"4";s:4:"NAME";s:58:"События калининградского офиса";s:6:"XML_ID";N;s:11:"EXTERNAL_ID";N;s:16:"GAPI_CALENDAR_ID";N;s:6:"ACTIVE";s:1:"Y";s:11:"DESCRIPTION";s:96:"Внутренние события калининградского офиса компании";s:5:"COLOR";s:7:"#F6EA68";s:10:"TEXT_COLOR";s:0:"";s:6:"EXPORT";a:2:{s:5:"ALLOW";b:1;s:4:"LINK";s:135:"&type=company_calendar&owner=0&ncc=1&user=1&sec_id=4&sign=9ef1c3dae82b39db9bf866c06d817ae6&bx_hit_hash=xoyojof1am5iqicnc6e2g0qz5p0fmi86";}s:4:"SORT";s:3:"100";s:8:"CAL_TYPE";s:16:"company_calendar";s:8:"OWNER_ID";s:1:"0";s:10:"CREATED_BY";s:1:"1";s:9:"PARENT_ID";N;s:11:"DATE_CREATE";s:19:"2022-06-10 09:35:00";s:11:"TIMESTAMP_X";s:19:"2022-06-10 09:35:00";s:12:"DAV_EXCH_CAL";N;s:12:"DAV_EXCH_MOD";N;s:11:"CAL_DAV_CON";b:0;s:11:"CAL_DAV_CAL";N;s:11:"CAL_DAV_MOD";N;s:11:"IS_EXCHANGE";b:0;s:10:"SYNC_TOKEN";N;s:13:"EXTERNAL_TYPE";N;s:10:"OUTLOOK_JS";s:200:"BX.StsSync.sync(\'calendar\', \'/stssync/calendar\', \'/\', \'Календари компании\', \'События калининградского офиса\', \'{ad9a1520-0f8d-9b52-a0d9-a35e7d67af39}\', 80)";}}s:12:"arSectionIds";a:1:{i:0;s:1:"4";}s:11:"permissions";a:0:{}}}';
+return true;
+?>

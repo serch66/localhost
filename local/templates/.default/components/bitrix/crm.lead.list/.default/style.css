@@ -1,0 +1,51 @@
+#main_UF_CRM_INN input{
+	position: relative;padding: 0 10px;height: 2em;border: 1px solid rgba(252, 253, 254, 0.2);border-radius: 2px;background: #fff;font: 15px "Helvetica Neue",Arial,Helvetica,sans-serif;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;-webkit-transition: all .3s ease-in-out;transition: all .3s ease-in-out;outline: 0;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.convert
+{
+    background: url("images/popup/convert.gif") no-repeat 0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.event
+{
+    background: url("images/popup/event.gif") no-repeat 0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.quote
+{
+	background: url("images/popup/quote.png") no-repeat  0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.task
+{
+    background: url("images/popup/task.gif") no-repeat  0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.subscribe
+{
+    background: url("images/popup/subscribe.gif") no-repeat  0 0 !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.bizproc {
+	background: url("images/popup/bizproc.gif") no-repeat 2px 0 !important;
+ 	width: 18px !important;
+ 	height: 18px !important;
+}
+
+div.bx-popup-menu td.popupmenu div.popupitem td.gutter div.calendar
+{
+    background: url("images/popup/calendar.gif") no-repeat 0 0 !important;
+}
+
+a.bizproc {
+	display:block; 
+	padding-right:20px;
+}
+a.bizproc_status_attention {
+	background: url("images/bizproc/bizproc_attention.gif") no-repeat right center;
+}
+
+a.bizproc_status_inprogress {
+	background: url("images/bizproc/bizproc_attention.gif") no-repeat right center;
+}

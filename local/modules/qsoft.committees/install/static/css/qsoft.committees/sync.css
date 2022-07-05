@@ -1,0 +1,27 @@
+#progress {
+    margin: 20px 0;
+}
+
+.page--hidden {
+    display:none;
+}
+
+.cell__title {
+    min-width: 100px;
+    font-weight: bold;
+}
+
+#sync-block {
+    width: 100%;
+    margin-top: 10px;
+    align-items: center;
+    align-content: center;
+}
+
+#sync-block #sync_start {
+    margin-left: 45%;
+}
+
+#sync-block #sync_cancel {
+    margin-left: 50%;
+}

@@ -1,0 +1,10 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("");
+IncludeModuleLangFile($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/intranet/public/company/birthdays.php");
+$APPLICATION->SetTitle(GetMessage("COMPANY_TITLE"));
+?><?$APPLICATION->IncludeComponent(
+	"bitrix:intranet.structure.birthday.nearest",
+	"",
+Array()
+);?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

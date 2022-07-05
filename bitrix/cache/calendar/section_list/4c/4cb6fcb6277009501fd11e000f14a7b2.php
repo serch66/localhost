@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001655273109';
+$dateexpire = '001657865109';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:3:{s:8:"arResult";a:1:{i:0;a:26:{s:2:"ID";s:1:"1";s:4:"NAME";s:11:"seryy seryy";s:6:"XML_ID";s:32:"a1acdec8e2fddc39c8cc0a7628702c36";s:11:"EXTERNAL_ID";N;s:16:"GAPI_CALENDAR_ID";N;s:6:"ACTIVE";s:1:"Y";s:11:"DESCRIPTION";s:65:"Календарь был создан автоматически";s:5:"COLOR";s:7:"#9dcf00";s:10:"TEXT_COLOR";N;s:6:"EXPORT";a:2:{s:5:"ALLOW";b:1;s:4:"LINK";s:123:"&type=user&owner=1&ncc=1&user=1&sec_id=1&sign=c077493c417168f880b49da04ff218c2&bx_hit_hash=2hp0jccrl0mprwh3lgs5aythk29orb6w";}s:4:"SORT";s:3:"100";s:8:"CAL_TYPE";s:4:"user";s:8:"OWNER_ID";s:1:"1";s:10:"CREATED_BY";s:1:"1";s:9:"PARENT_ID";N;s:11:"DATE_CREATE";s:19:"2022-06-10 09:34:00";s:11:"TIMESTAMP_X";s:19:"2022-06-10 09:34:38";s:12:"DAV_EXCH_CAL";N;s:12:"DAV_EXCH_MOD";N;s:11:"CAL_DAV_CON";N;s:11:"CAL_DAV_CAL";N;s:11:"CAL_DAV_MOD";N;s:11:"IS_EXCHANGE";b:0;s:10:"SYNC_TOKEN";N;s:13:"EXTERNAL_TYPE";N;s:10:"OUTLOOK_JS";s:127:"BX.StsSync.sync(\'calendar\', \'/stssync/calendar\', \'/\', \'seryy tru\', \'seryy seryy\', \'{a1acdec8-e2fd-dc39-c8cc-0a7628702c36}\', 80)";}}s:12:"arSectionIds";a:1:{i:0;s:1:"1";}s:11:"permissions";a:1:{i:1;a:2:{s:2:"G2";s:2:"15";s:2:"U1";i:19;}}}}';
+return true;
+?>

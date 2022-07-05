@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/local/vendor/mashape/unirest-php" />
+      <path value="$PROJECT_DIR$/local/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/local/vendor/amphp/amp" />
+      <path value="$PROJECT_DIR$/local/vendor/nmred/kafka-php" />
+      <path value="$PROJECT_DIR$/local/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/local/vendor/composer" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/local/vendor/symfony/polyfill-php72" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+</project>

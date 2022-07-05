@@ -1,0 +1,23 @@
+{
+  "extra": {
+    "installer-paths": {
+      "modules/{$name}/": [
+        "type:bitrix-module"
+      ]
+    }
+  },
+  "require": {
+    "symfony/var-dumper": "^4.3",
+    "monolog/monolog": "^1.24",
+    "andreyryabin/sprint.migration": "dev-master",
+    "ext-json": "*",
+    "ext-curl": "*",
+    "nmred/kafka-php": "0.2.*",
+    "mashape/unirest-php": "dev-master"
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true
+    }
+  }
+}

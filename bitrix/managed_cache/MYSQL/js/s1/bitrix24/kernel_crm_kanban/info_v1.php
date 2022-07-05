@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/js/crm/kanban/actions.js" => "16548417916501","/bitrix/js/crm/kanban/grid.js" => "165484179138281","/bitrix/js/crm/kanban/item.js" => "165484179126400","/bitrix/js/crm/kanban/column.js" => "165484179119047","/bitrix/js/crm/kanban/dropzone.js" => "16548417913837","/bitrix/js/crm/kanban/pullmanager.js" => "16548417914083",]; ?>

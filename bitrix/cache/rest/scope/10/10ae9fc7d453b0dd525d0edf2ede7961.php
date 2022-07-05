@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001656482419';
+$dateexpire = '001657087219';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:44:{s:5:"forum";s:5:"forum";s:7:"landing";s:7:"landing";s:13:"landing_cloud";s:13:"landing_cloud";s:7:"timeman";s:7:"timeman";s:10:"department";s:10:"department";s:14:"contact_center";s:14:"contact_center";s:3:"crm";s:3:"crm";s:4:"task";s:4:"task";s:4:"user";s:4:"user";s:11:"sonet_group";s:11:"sonet_group";s:6:"faceid";s:6:"faceid";s:17:"documentgenerator";s:17:"documentgenerator";s:8:"delivery";s:8:"delivery";s:10:"pay_system";s:10:"pay_system";s:4:"disk";s:4:"disk";s:14:"tasks_extended";s:14:"tasks_extended";s:8:"calendar";s:8:"calendar";s:7:"bizproc";s:7:"bizproc";s:3:"log";s:3:"log";s:9:"placement";s:9:"placement";s:10:"user_brief";s:10:"user_brief";s:10:"user_basic";s:10:"user_basic";s:14:"user.userfield";s:14:"user.userfield";s:11:"imopenlines";s:11:"imopenlines";s:6:"entity";s:6:"entity";s:4:"pull";s:4:"pull";s:12:"pull_channel";s:12:"pull_channel";s:6:"mobile";s:6:"mobile";s:11:"userconsent";s:11:"userconsent";s:6:"rating";s:6:"rating";s:5:"smile";s:5:"smile";s:14:"messageservice";s:14:"messageservice";s:2:"im";s:2:"im";s:5:"imbot";s:5:"imbot";s:11:"mailservice";s:11:"mailservice";s:5:"lists";s:5:"lists";s:7:"catalog";s:7:"catalog";s:6:"iblock";s:6:"iblock";s:8:"intranet";s:8:"intranet";s:3:"rpa";s:3:"rpa";s:4:"sale";s:4:"sale";s:11:"salescenter";s:11:"salescenter";s:13:"socialnetwork";s:13:"socialnetwork";s:5:"tasks";s:5:"tasks";}}';
+return true;
+?>
